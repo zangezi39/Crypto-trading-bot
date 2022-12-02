@@ -1,0 +1,1090 @@
+Symbol excluded (wallet update, deposit maintenance, bug, etc.):
+[ 'STEEM/BTC', 'STEEM/ETH' ]
+[90mTue, 06 Sep 2022 18:04:35 GMT[39m	[33mbinanceus, bitstamp[39m
+[90mTue, 06 Sep 2022 18:04:37 GMT[39m	[32mbinanceus[39m loaded [32m300[39m markets
+[90mTue, 06 Sep 2022 18:04:38 GMT[39m	[32mbitstamp[39m loaded [32m173[39m markets
+[90mTue, 06 Sep 2022 18:04:38 GMT[39m	[32mLoaded all markets[39m
+[90mTue, 06 Sep 2022 18:04:38 GMT[39m	symbol    | binanceus | bitstamp
+                             	--------------------------------
+                             	1INCH/USD | binanceus | bitstamp
+                             	AAVE/USD  | binanceus | bitstamp
+                             	ADA/BTC   | binanceus | bitstamp
+                             	ADA/USD   | binanceus | bitstamp
+                             	ALGO/USD  | binanceus | bitstamp
+                             	AMP/USD   | binanceus | bitstamp
+                             	ANT/USD   | binanceus | bitstamp
+                             	APE/USD   | binanceus | bitstamp
+                             	AUDIO/USD | binanceus | bitstamp
+                             	AVAX/USD  | binanceus | bitstamp
+                             	AXS/USD   | binanceus | bitstamp
+                             	BAND/USD  | binanceus | bitstamp
+                             	BAT/USD   | binanceus | bitstamp
+                             	BCH/BTC   | binanceus | bitstamp
+                             	BCH/USD   | binanceus | bitstamp
+                             	BTC/USD   | binanceus | bitstamp
+                             	BTC/USDC  | binanceus | bitstamp
+                             	BTC/USDT  | binanceus | bitstamp
+                             	CHZ/USD   | binanceus | bitstamp
+                             	COMP/USD  | binanceus | bitstamp
+                             	CRV/USD   | binanceus | bitstamp
+                             	CTSI/USD  | binanceus | bitstamp
+                             	DAI/USD   | binanceus | bitstamp
+                             	DOT/USD   | binanceus | bitstamp
+                             	ENJ/USD   | binanceus | bitstamp
+                             	ENS/USD   | binanceus | bitstamp
+                             	ETH/BTC   | binanceus | bitstamp
+                             	ETH/USD   | binanceus | bitstamp
+                             	ETH/USDC  | binanceus | bitstamp
+                             	ETH/USDT  | binanceus | bitstamp
+                             	FET/USD   | binanceus | bitstamp
+                             	FTM/USD   | binanceus | bitstamp
+                             	GALA/USD  | binanceus | bitstamp
+                             	GRT/USD   | binanceus | bitstamp
+                             	HBAR/USD  | binanceus | bitstamp
+                             	IMX/USD   | binanceus | bitstamp
+                             	KNC/USD   | binanceus | bitstamp
+                             	LINK/BTC  | binanceus | bitstamp
+                             	LINK/USD  | binanceus | bitstamp
+                             	LRC/USD   | binanceus | bitstamp
+                             	LTC/BTC   | binanceus | bitstamp
+                             	LTC/USD   | binanceus | bitstamp
+                             	MANA/USD  | binanceus | bitstamp
+                             	MATIC/USD | binanceus | bitstamp
+                             	MKR/USD   | binanceus | bitstamp
+                             	OMG/USD   | binanceus | bitstamp
+                             	RAD/USD   | binanceus | bitstamp
+                             	RNDR/USD  | binanceus | bitstamp
+                             	SKL/USD   | binanceus | bitstamp
+                             	SLP/USD   | binanceus | bitstamp
+                             	SNX/USD   | binanceus | bitstamp
+                             	SOL/USD   | binanceus | bitstamp
+                             	STORJ/USD | binanceus | bitstamp
+                             	SUSHI/USD | binanceus | bitstamp
+                             	UNI/BTC   | binanceus | bitstamp
+                             	UNI/USD   | binanceus | bitstamp
+                             	USDC/USD  | binanceus | bitstamp
+                             	USDC/USDT | binanceus | bitstamp
+                             	USDT/USD  | binanceus | bitstamp
+                             	WBTC/BTC  | binanceus | bitstamp
+                             	XLM/USD   | binanceus | bitstamp
+                             	XRP/BTC   | binanceus | bitstamp
+                             	XRP/USD   | binanceus | bitstamp
+                             	XRP/USDT  | binanceus | bitstamp
+                             	YFI/USD   | binanceus | bitstamp
+                             	ZRX/USD   | binanceus | bitstamp
+[90mTue, 06 Sep 2022 18:04:40 GMT[39m	[31m1INCH/USD: -1.8944983818770185 % [39m
+[90mTue, 06 Sep 2022 18:04:41 GMT[39m	[31mAAVE/USD: -0.7755412521942667 % [39m
+[90mTue, 06 Sep 2022 18:04:42 GMT[39m	[31mADA/BTC: -0.6812677773262882 % [39m
+[90mTue, 06 Sep 2022 18:04:43 GMT[39m	[31mADA/USD: -0.6191656551459807 % [39m
+[90mTue, 06 Sep 2022 18:04:44 GMT[39m	[31mALGO/USD: -0.6972222222222263 % [39m
+[90mTue, 06 Sep 2022 18:04:46 GMT[39m	[31mANT/USD: -1.0519774011299439 % [39m
+[90mTue, 06 Sep 2022 18:04:48 GMT[39m	[31mAPE/USD: -0.8850678733031686 % [39m
+[90mTue, 06 Sep 2022 18:04:49 GMT[39m	[31mAUDIO/USD: -0.5242424242424265 % [39m
+[90mTue, 06 Sep 2022 18:04:50 GMT[39m	[31mAVAX/USD: -0.6514837287157954 % [39m
+[90mTue, 06 Sep 2022 18:04:51 GMT[39m	[31mAXS/USD: -0.7171888695190248 % [39m
+[90mTue, 06 Sep 2022 18:04:52 GMT[39m	[31mBAND/USD: -2.039736733854391 % [39m
+[90mTue, 06 Sep 2022 18:04:53 GMT[39m	[31mBAT/USD: -0.7249219237976273 % [39m
+[90mTue, 06 Sep 2022 18:04:54 GMT[39m	[31mBCH/BTC: -0.9294892915980285 % [39m
+[90mTue, 06 Sep 2022 18:04:55 GMT[39m	[31mBCH/USD: -0.7037613488975353 % [39m
+[90mTue, 06 Sep 2022 18:04:57 GMT[39m	[31mBTC/USD: -0.6080647103983478 % [39m
+[90mTue, 06 Sep 2022 18:04:58 GMT[39m	[31mBTC/USDC: -0.8425104675222944 % [39m
+[90mTue, 06 Sep 2022 18:04:59 GMT[39m	[31mBTC/USDT: -0.6698636349829362 % [39m
+[90mTue, 06 Sep 2022 18:05:00 GMT[39m	[31mCHZ/USD: -0.8639915522703262 % [39m
+[90mTue, 06 Sep 2022 18:05:01 GMT[39m	[31mCOMP/USD: -0.7724881414402857 % [39m
+[90mTue, 06 Sep 2022 18:05:02 GMT[39m	[31mCRV/USD: -0.7758034026465016 % [39m
+[90mTue, 06 Sep 2022 18:05:03 GMT[39m	[31mCTSI/USD: -0.822717149220486 % [39m
+[90mTue, 06 Sep 2022 18:05:04 GMT[39m	[31mDAI/USD: -0.6020003600648133 % [39m
+[90mTue, 06 Sep 2022 18:05:05 GMT[39m	[31mDOT/USD: -0.7276776847779826 % [39m
+[90mTue, 06 Sep 2022 18:05:06 GMT[39m	[31mENJ/USD: -0.7932522747403076 % [39m
+[90mTue, 06 Sep 2022 18:05:07 GMT[39m	[31mENS/USD: -0.17953749124035526 % [39m
+[90mTue, 06 Sep 2022 18:05:09 GMT[39m	[31mETH/BTC: -0.6986161461658086 % [39m
+[90mTue, 06 Sep 2022 18:05:10 GMT[39m	[31mETH/USD: -0.6302995871681255 % [39m
+[90mTue, 06 Sep 2022 18:05:11 GMT[39m	[31mETH/USDC: -0.7198738170347102 % [39m
+[90mTue, 06 Sep 2022 18:05:12 GMT[39m	[31mETH/USDT: -0.6214654595502406 % [39m
+[90mTue, 06 Sep 2022 18:05:13 GMT[39m	[31mFET/USD: -1.011840411840414 % [39m
+[90mTue, 06 Sep 2022 18:05:14 GMT[39m	[31mFTM/USD: -0.6559910414333564 % [39m
+[90mTue, 06 Sep 2022 18:05:15 GMT[39m	[31mGALA/USD: -0.6837871805613677 % [39m
+[90mTue, 06 Sep 2022 18:05:17 GMT[39m	[31mGRT/USD: -0.8219531880548797 % [39m
+[90mTue, 06 Sep 2022 18:05:18 GMT[39m	[31mHBAR/USD: -0.6846740050804428 % [39m
+[90mTue, 06 Sep 2022 18:05:19 GMT[39m	[31mIMX/USD: -1.990644753476611 % [39m
+[90mTue, 06 Sep 2022 18:05:20 GMT[39m	[31mKNC/USD: -0.786938286399041 % [39m
+[90mTue, 06 Sep 2022 18:05:21 GMT[39m	[31mLINK/BTC: -1.0506017352365 % [39m
+[90mTue, 06 Sep 2022 18:05:22 GMT[39m	[31mLINK/USD: -0.6882352941176556 % [39m
+[90mTue, 06 Sep 2022 18:05:23 GMT[39m	[31mLRC/USD: -0.8385923053981442 % [39m
+[90mTue, 06 Sep 2022 18:05:24 GMT[39m	[31mLTC/BTC: -0.7849691146190824 % [39m
+[90mTue, 06 Sep 2022 18:05:25 GMT[39m	[31mLTC/USD: -0.7079525008995996 % [39m
+[90mTue, 06 Sep 2022 18:05:26 GMT[39m	[31mMANA/USD: -1.177724036006988 % [39m
+[90mTue, 06 Sep 2022 18:05:27 GMT[39m	[31mMATIC/USD: -0.6914597933246108 % [39m
+[90mTue, 06 Sep 2022 18:05:28 GMT[39m	[31mMKR/USD: -0.8053893127809458 % [39m
+[90mTue, 06 Sep 2022 18:05:29 GMT[39m	[31mOMG/USD: -1.2318207926479081 % [39m
+[90mTue, 06 Sep 2022 18:05:31 GMT[39m	[31mRAD/USD: -1.5287925696594424 % [39m
+[90mTue, 06 Sep 2022 18:05:32 GMT[39m	[31mRNDR/USD: -1.4403361344537786 % [39m
+[90mTue, 06 Sep 2022 18:05:33 GMT[39m	[31mSKL/USD: -1.0741379310344796 % [39m
+[90mTue, 06 Sep 2022 18:05:34 GMT[39m	[31mSLP/USD: -0.6 % [39m
+[90mTue, 06 Sep 2022 18:05:35 GMT[39m	[31mSNX/USD: -0.806760158216468 % [39m
+[90mTue, 06 Sep 2022 18:05:36 GMT[39m	[31mSOL/USD: -0.6157657657657628 % [39m
+[90mTue, 06 Sep 2022 18:05:37 GMT[39m	[31mSTORJ/USD: -0.9225806451612858 % [39m
+[90mTue, 06 Sep 2022 18:05:38 GMT[39m	[31mSUSHI/USD: -0.7688424717145365 % [39m
+[90mTue, 06 Sep 2022 18:05:39 GMT[39m	[31mUNI/BTC: -0.7708212071365289 % [39m
+[90mTue, 06 Sep 2022 18:05:40 GMT[39m	[31mUNI/USD: -0.6348848798963463 % [39m
+[90mTue, 06 Sep 2022 18:05:41 GMT[39m	[31mUSDC/USD: -0.5989999999999934 % [39m
+[90mTue, 06 Sep 2022 18:05:42 GMT[39m	[31mUSDC/USDT: -0.5969996999700017 % [39m
+[90mTue, 06 Sep 2022 18:05:43 GMT[39m	[31mUSDT/USD: -0.5979999599992064 % [39m
+[90mTue, 06 Sep 2022 18:05:45 GMT[39m	[31mWBTC/BTC: -0.7498651213907465 % [39m
+[90mTue, 06 Sep 2022 18:05:46 GMT[39m	[31mXLM/USD: -0.6396275014860281 % [39m
+[90mTue, 06 Sep 2022 18:05:50 GMT[39m	[31mYFI/USD: -0.7086895181770075 % [39m
+[90mTue, 06 Sep 2022 18:05:51 GMT[39m	[31mZRX/USD: -0.8422515140719672 % [39m
+Symbol excluded (wallet update, deposit maintenance, bug, etc.):
+[ 'STEEM/BTC', 'STEEM/ETH' ]
+[90mTue, 06 Sep 2022 18:06:01 GMT[39m	[33mbinanceus, bitstamp[39m
+[90mTue, 06 Sep 2022 18:06:03 GMT[39m	[32mbinanceus[39m loaded [32m300[39m markets
+[90mTue, 06 Sep 2022 18:06:05 GMT[39m	[32mbitstamp[39m loaded [32m173[39m markets
+[90mTue, 06 Sep 2022 18:06:05 GMT[39m	[32mLoaded all markets[39m
+[90mTue, 06 Sep 2022 18:06:05 GMT[39m	symbol    | binanceus | bitstamp
+                             	--------------------------------
+                             	1INCH/USD | binanceus | bitstamp
+                             	AAVE/USD  | binanceus | bitstamp
+                             	ADA/BTC   | binanceus | bitstamp
+                             	ADA/USD   | binanceus | bitstamp
+                             	ALGO/USD  | binanceus | bitstamp
+                             	AMP/USD   | binanceus | bitstamp
+                             	ANT/USD   | binanceus | bitstamp
+                             	APE/USD   | binanceus | bitstamp
+                             	AUDIO/USD | binanceus | bitstamp
+                             	AVAX/USD  | binanceus | bitstamp
+                             	AXS/USD   | binanceus | bitstamp
+                             	BAND/USD  | binanceus | bitstamp
+                             	BAT/USD   | binanceus | bitstamp
+                             	BCH/BTC   | binanceus | bitstamp
+                             	BCH/USD   | binanceus | bitstamp
+                             	BTC/USD   | binanceus | bitstamp
+                             	BTC/USDC  | binanceus | bitstamp
+                             	BTC/USDT  | binanceus | bitstamp
+                             	CHZ/USD   | binanceus | bitstamp
+                             	COMP/USD  | binanceus | bitstamp
+                             	CRV/USD   | binanceus | bitstamp
+                             	CTSI/USD  | binanceus | bitstamp
+                             	DAI/USD   | binanceus | bitstamp
+                             	DOT/USD   | binanceus | bitstamp
+                             	ENJ/USD   | binanceus | bitstamp
+                             	ENS/USD   | binanceus | bitstamp
+                             	ETH/BTC   | binanceus | bitstamp
+                             	ETH/USD   | binanceus | bitstamp
+                             	ETH/USDC  | binanceus | bitstamp
+                             	ETH/USDT  | binanceus | bitstamp
+                             	FET/USD   | binanceus | bitstamp
+                             	FTM/USD   | binanceus | bitstamp
+                             	GALA/USD  | binanceus | bitstamp
+                             	GRT/USD   | binanceus | bitstamp
+                             	HBAR/USD  | binanceus | bitstamp
+                             	IMX/USD   | binanceus | bitstamp
+                             	KNC/USD   | binanceus | bitstamp
+                             	LINK/BTC  | binanceus | bitstamp
+                             	LINK/USD  | binanceus | bitstamp
+                             	LRC/USD   | binanceus | bitstamp
+                             	LTC/BTC   | binanceus | bitstamp
+                             	LTC/USD   | binanceus | bitstamp
+                             	MANA/USD  | binanceus | bitstamp
+                             	MATIC/USD | binanceus | bitstamp
+                             	MKR/USD   | binanceus | bitstamp
+                             	OMG/USD   | binanceus | bitstamp
+                             	RAD/USD   | binanceus | bitstamp
+                             	RNDR/USD  | binanceus | bitstamp
+                             	SKL/USD   | binanceus | bitstamp
+                             	SLP/USD   | binanceus | bitstamp
+                             	SNX/USD   | binanceus | bitstamp
+                             	SOL/USD   | binanceus | bitstamp
+                             	STORJ/USD | binanceus | bitstamp
+                             	SUSHI/USD | binanceus | bitstamp
+                             	UNI/BTC   | binanceus | bitstamp
+                             	UNI/USD   | binanceus | bitstamp
+                             	USDC/USD  | binanceus | bitstamp
+                             	USDC/USDT | binanceus | bitstamp
+                             	USDT/USD  | binanceus | bitstamp
+                             	WBTC/BTC  | binanceus | bitstamp
+                             	XLM/USD   | binanceus | bitstamp
+                             	XRP/BTC   | binanceus | bitstamp
+                             	XRP/USD   | binanceus | bitstamp
+                             	XRP/USDT  | binanceus | bitstamp
+                             	YFI/USD   | binanceus | bitstamp
+                             	ZRX/USD   | binanceus | bitstamp
+[90mTue, 06 Sep 2022 18:06:06 GMT[39m	[31m1INCH/USD: -2.0539579967689843 % [39m
+[90mTue, 06 Sep 2022 18:06:07 GMT[39m	[31mAAVE/USD: -0.7400233372228721 % [39m
+[90mTue, 06 Sep 2022 18:06:09 GMT[39m	[31mADA/BTC: -0.8029220779220853 % [39m
+[90mTue, 06 Sep 2022 18:06:10 GMT[39m	[31mADA/USD: -0.5680885012232734 % [39m
+[90mTue, 06 Sep 2022 18:06:11 GMT[39m	[31mALGO/USD: -0.6624999999999875 % [39m
+[90mTue, 06 Sep 2022 18:06:13 GMT[39m	[31mANT/USD: -0.9378378378378401 % [39m
+[90mTue, 06 Sep 2022 18:06:14 GMT[39m	[31mAPE/USD: -0.8714932126696712 % [39m
+[90mTue, 06 Sep 2022 18:06:15 GMT[39m	[31mAUDIO/USD: -0.2439393939393847 % [39m
+[90mTue, 06 Sep 2022 18:06:16 GMT[39m	[31mAVAX/USD: -0.6898706896551582 % [39m
+[90mTue, 06 Sep 2022 18:06:17 GMT[39m	[31mAXS/USD: -0.675912478430562 % [39m
+[90mTue, 06 Sep 2022 18:06:18 GMT[39m	[31mBAND/USD: -2.1854760535611635 % [39m
+[90mTue, 06 Sep 2022 18:06:19 GMT[39m	[31mBAT/USD: -0.7342491414299096 % [39m
+[90mTue, 06 Sep 2022 18:06:21 GMT[39m	[31mBCH/BTC: -0.8306425041186166 % [39m
+[90mTue, 06 Sep 2022 18:06:22 GMT[39m	[31mBCH/USD: -0.7297016861219191 % [39m
+[90mTue, 06 Sep 2022 18:06:23 GMT[39m	[31mBTC/USD: -0.616148414414463 % [39m
+[90mTue, 06 Sep 2022 18:06:24 GMT[39m	[31mBTC/USDC: -0.6954592133343035 % [39m
+[90mTue, 06 Sep 2022 18:06:25 GMT[39m	[31mBTC/USDT: -0.6394767262941631 % [39m
+[90mTue, 06 Sep 2022 18:06:26 GMT[39m	[31mCHZ/USD: -0.8485457429931226 % [39m
+[90mTue, 06 Sep 2022 18:06:27 GMT[39m	[31mCOMP/USD: -0.7078050884001813 % [39m
+[90mTue, 06 Sep 2022 18:06:29 GMT[39m	[31mCRV/USD: -0.7620853080568585 % [39m
+[90mTue, 06 Sep 2022 18:06:30 GMT[39m	[31mCTSI/USD: -0.8971768202080118 % [39m
+[90mTue, 06 Sep 2022 18:06:31 GMT[39m	[31mDAI/USD: -0.6070009101183155 % [39m
+[90mTue, 06 Sep 2022 18:06:32 GMT[39m	[31mDOT/USD: -0.7560062402496065 % [39m
+[90mTue, 06 Sep 2022 18:06:33 GMT[39m	[31mENJ/USD: -0.8373863362034267 % [39m
+[90mTue, 06 Sep 2022 18:06:34 GMT[39m	[31mENS/USD: 0.03202247191012083 % [39m
+[90mTue, 06 Sep 2022 18:06:35 GMT[39m	[31mETH/BTC: -0.6262989791367962 % [39m
+[90mTue, 06 Sep 2022 18:06:37 GMT[39m	[31mETH/USD: -0.575355450236969 % [39m
+[90mTue, 06 Sep 2022 18:06:38 GMT[39m	[31mETH/USDC: -0.7054312897340259 % [39m
+[90mTue, 06 Sep 2022 18:06:39 GMT[39m	[31mETH/USDT: -0.6776794679903769 % [39m
+[90mTue, 06 Sep 2022 18:06:40 GMT[39m	[31mFET/USD: -1.0219948849105038 % [39m
+[90mTue, 06 Sep 2022 18:06:41 GMT[39m	[31mFTM/USD: -0.6680081609793159 % [39m
+[90mTue, 06 Sep 2022 18:06:42 GMT[39m	[31mGALA/USD: -0.7047120418848246 % [39m
+[90mTue, 06 Sep 2022 18:06:43 GMT[39m	[31mGRT/USD: -0.7915322580645084 % [39m
+[90mTue, 06 Sep 2022 18:06:44 GMT[39m	[31mHBAR/USD: -0.6677506775067837 % [39m
+[90mTue, 06 Sep 2022 18:06:45 GMT[39m	[31mIMX/USD: -1.990644753476611 % [39m
+[90mTue, 06 Sep 2022 18:06:46 GMT[39m	[31mKNC/USD: -0.7726618705035987 % [39m
+[90mTue, 06 Sep 2022 18:06:47 GMT[39m	[31mLINK/BTC: -0.997425132941509 % [39m
+[90mTue, 06 Sep 2022 18:06:48 GMT[39m	[31mLINK/USD: -0.7663893510815195 % [39m
+[90mTue, 06 Sep 2022 18:06:50 GMT[39m	[31mLRC/USD: -0.868256333830108 % [39m
+[90mTue, 06 Sep 2022 18:06:51 GMT[39m	[31mLTC/BTC: -0.7327615780445934 % [39m
+[90mTue, 06 Sep 2022 18:06:52 GMT[39m	[31mLTC/USD: -0.7079913606911509 % [39m
+[90mTue, 06 Sep 2022 18:06:53 GMT[39m	[31mMANA/USD: -0.9903620944945454 % [39m
+[90mTue, 06 Sep 2022 18:06:54 GMT[39m	[31mMATIC/USD: -0.6773947728761159 % [39m
+[90mTue, 06 Sep 2022 18:06:55 GMT[39m	[31mMKR/USD: -0.7841523454699678 % [39m
+[90mTue, 06 Sep 2022 18:06:56 GMT[39m	[31mOMG/USD: -1.260350272753374 % [39m
+[90mTue, 06 Sep 2022 18:06:57 GMT[39m	[31mRAD/USD: -1.4849557522123686 % [39m
+[90mTue, 06 Sep 2022 18:06:58 GMT[39m	[31mRNDR/USD: -1.4421052631578997 % [39m
+[90mTue, 06 Sep 2022 18:06:59 GMT[39m	[31mSKL/USD: -0.9879310344827582 % [39m
+[90mTue, 06 Sep 2022 18:07:00 GMT[39m	[31mSLP/USD: -1.126315789473686 % [39m
+[90mTue, 06 Sep 2022 18:07:01 GMT[39m	[31mSNX/USD: -1.0007606932193043 % [39m
+[90mTue, 06 Sep 2022 18:07:02 GMT[39m	[31mSOL/USD: -0.7016309189557751 % [39m
+[90mTue, 06 Sep 2022 18:07:04 GMT[39m	[31mSTORJ/USD: -0.8545666537116076 % [39m
+[90mTue, 06 Sep 2022 18:07:05 GMT[39m	[31mSUSHI/USD: -0.8078602620087411 % [39m
+[90mTue, 06 Sep 2022 18:07:06 GMT[39m	[31mUNI/BTC: -0.8088673692205445 % [39m
+[90mTue, 06 Sep 2022 18:07:07 GMT[39m	[31mUNI/USD: -0.8029547828682365 % [39m
+[90mTue, 06 Sep 2022 18:07:08 GMT[39m	[31mUSDC/USD: -0.5980000000000091 % [39m
+[90mTue, 06 Sep 2022 18:07:09 GMT[39m	[31mUSDC/USDT: -0.5969996999700017 % [39m
+[90mTue, 06 Sep 2022 18:07:10 GMT[39m	[31mUSDT/USD: -0.5979999599992064 % [39m
+[90mTue, 06 Sep 2022 18:07:11 GMT[39m	[31mWBTC/BTC: -0.7398880895283727 % [39m
+[90mTue, 06 Sep 2022 18:07:12 GMT[39m	[31mXLM/USD: -0.6988142292490113 % [39m
+[90mTue, 06 Sep 2022 18:07:17 GMT[39m	[31mYFI/USD: -0.7302606676956919 % [39m
+[90mTue, 06 Sep 2022 18:07:18 GMT[39m	[31mZRX/USD: -0.8244149182488386 % [39m
+Symbol excluded (wallet update, deposit maintenance, bug, etc.):
+[ 'STEEM/BTC', 'STEEM/ETH' ]
+[90mTue, 06 Sep 2022 18:09:01 GMT[39m	[33mbinanceus, bitstamp[39m
+[90mTue, 06 Sep 2022 18:09:02 GMT[39m	[32mbinanceus[39m loaded [32m300[39m markets
+[90mTue, 06 Sep 2022 18:09:04 GMT[39m	[32mbitstamp[39m loaded [32m173[39m markets
+[90mTue, 06 Sep 2022 18:09:04 GMT[39m	[32mLoaded all markets[39m
+[90mTue, 06 Sep 2022 18:09:04 GMT[39m	symbol    | binanceus | bitstamp
+                             	--------------------------------
+                             	1INCH/USD | binanceus | bitstamp
+                             	AAVE/USD  | binanceus | bitstamp
+                             	ADA/BTC   | binanceus | bitstamp
+                             	ADA/USD   | binanceus | bitstamp
+                             	ALGO/USD  | binanceus | bitstamp
+                             	AMP/USD   | binanceus | bitstamp
+                             	ANT/USD   | binanceus | bitstamp
+                             	APE/USD   | binanceus | bitstamp
+                             	AUDIO/USD | binanceus | bitstamp
+                             	AVAX/USD  | binanceus | bitstamp
+                             	AXS/USD   | binanceus | bitstamp
+                             	BAND/USD  | binanceus | bitstamp
+                             	BAT/USD   | binanceus | bitstamp
+                             	BCH/BTC   | binanceus | bitstamp
+                             	BCH/USD   | binanceus | bitstamp
+                             	BTC/USD   | binanceus | bitstamp
+                             	BTC/USDC  | binanceus | bitstamp
+                             	BTC/USDT  | binanceus | bitstamp
+                             	CHZ/USD   | binanceus | bitstamp
+                             	COMP/USD  | binanceus | bitstamp
+                             	CRV/USD   | binanceus | bitstamp
+                             	CTSI/USD  | binanceus | bitstamp
+                             	DAI/USD   | binanceus | bitstamp
+                             	DOT/USD   | binanceus | bitstamp
+                             	ENJ/USD   | binanceus | bitstamp
+                             	ENS/USD   | binanceus | bitstamp
+                             	ETH/BTC   | binanceus | bitstamp
+                             	ETH/USD   | binanceus | bitstamp
+                             	ETH/USDC  | binanceus | bitstamp
+                             	ETH/USDT  | binanceus | bitstamp
+                             	FET/USD   | binanceus | bitstamp
+                             	FTM/USD   | binanceus | bitstamp
+                             	GALA/USD  | binanceus | bitstamp
+                             	GRT/USD   | binanceus | bitstamp
+                             	HBAR/USD  | binanceus | bitstamp
+                             	IMX/USD   | binanceus | bitstamp
+                             	KNC/USD   | binanceus | bitstamp
+                             	LINK/BTC  | binanceus | bitstamp
+                             	LINK/USD  | binanceus | bitstamp
+                             	LRC/USD   | binanceus | bitstamp
+                             	LTC/BTC   | binanceus | bitstamp
+                             	LTC/USD   | binanceus | bitstamp
+                             	MANA/USD  | binanceus | bitstamp
+                             	MATIC/USD | binanceus | bitstamp
+                             	MKR/USD   | binanceus | bitstamp
+                             	OMG/USD   | binanceus | bitstamp
+                             	RAD/USD   | binanceus | bitstamp
+                             	RNDR/USD  | binanceus | bitstamp
+                             	SKL/USD   | binanceus | bitstamp
+                             	SLP/USD   | binanceus | bitstamp
+                             	SNX/USD   | binanceus | bitstamp
+                             	SOL/USD   | binanceus | bitstamp
+                             	STORJ/USD | binanceus | bitstamp
+                             	SUSHI/USD | binanceus | bitstamp
+                             	UNI/BTC   | binanceus | bitstamp
+                             	UNI/USD   | binanceus | bitstamp
+                             	USDC/USD  | binanceus | bitstamp
+                             	USDC/USDT | binanceus | bitstamp
+                             	USDT/USD  | binanceus | bitstamp
+                             	WBTC/BTC  | binanceus | bitstamp
+                             	XLM/USD   | binanceus | bitstamp
+                             	XRP/BTC   | binanceus | bitstamp
+                             	XRP/USD   | binanceus | bitstamp
+                             	XRP/USDT  | binanceus | bitstamp
+                             	YFI/USD   | binanceus | bitstamp
+                             	ZRX/USD   | binanceus | bitstamp
+[90mTue, 06 Sep 2022 18:09:06 GMT[39m	[31m1INCH/USD: -1.8944983818770185 % [39m
+[90mTue, 06 Sep 2022 18:09:07 GMT[39m	[31mAAVE/USD: -0.7401378021721244 % [39m
+[90mTue, 06 Sep 2022 18:09:09 GMT[39m	[31mADA/BTC: -0.8028397565922879 % [39m
+[90mTue, 06 Sep 2022 18:09:10 GMT[39m	[31mADA/USD: -0.5083878390182534 % [39m
+[90mTue, 06 Sep 2022 18:09:11 GMT[39m	[31mALGO/USD: -0.7354166666666656 % [39m
+[90mTue, 06 Sep 2022 18:09:13 GMT[39m	[31mANT/USD: -1.3332205301748385 % [39m
+[90mTue, 06 Sep 2022 18:09:14 GMT[39m	[31mAPE/USD: -0.7996007984031878 % [39m
+[90mTue, 06 Sep 2022 18:09:15 GMT[39m	[31mAUDIO/USD: -0.5356060606060525 % [39m
+[90mTue, 06 Sep 2022 18:09:16 GMT[39m	[31mAVAX/USD: -0.6446528484300712 % [39m
+[90mTue, 06 Sep 2022 18:09:17 GMT[39m	[31mAXS/USD: -0.6013432655382228 % [39m
+[90mTue, 06 Sep 2022 18:09:18 GMT[39m	[31mBAND/USD: -2.16930408347713 % [39m
+[90mTue, 06 Sep 2022 18:09:19 GMT[39m	[31mBAT/USD: -0.7405152224824402 % [39m
+[90mTue, 06 Sep 2022 18:09:20 GMT[39m	[31mBCH/BTC: -0.8805280528052845 % [39m
+[90mTue, 06 Sep 2022 18:09:21 GMT[39m	[31mBCH/USD: -0.7560468140442084 % [39m
+[90mTue, 06 Sep 2022 18:09:23 GMT[39m	[31mBTC/USD: -0.6209174311926685 % [39m
+[90mTue, 06 Sep 2022 18:09:24 GMT[39m	[31mBTC/USDC: -0.6618778162003619 % [39m
+[90mTue, 06 Sep 2022 18:09:25 GMT[39m	[31mBTC/USDT: -0.6382639689694874 % [39m
+[90mTue, 06 Sep 2022 18:09:26 GMT[39m	[31mCHZ/USD: -0.8811223677929297 % [39m
+[90mTue, 06 Sep 2022 18:09:27 GMT[39m	[31mCOMP/USD: -0.6645716745587665 % [39m
+[90mTue, 06 Sep 2022 18:09:28 GMT[39m	[31mCRV/USD: -0.7752142823317593 % [39m
+[90mTue, 06 Sep 2022 18:09:29 GMT[39m	[31mCTSI/USD: -0.6743494423791957 % [39m
+[90mTue, 06 Sep 2022 18:09:31 GMT[39m	[31mDAI/USD: -0.6080009601152064 % [39m
+[90mTue, 06 Sep 2022 18:09:32 GMT[39m	[31mDOT/USD: -0.7418439716312059 % [39m
+[90mTue, 06 Sep 2022 18:09:33 GMT[39m	[31mENJ/USD: -0.7891728718051877 % [39m
+[90mTue, 06 Sep 2022 18:09:34 GMT[39m	[31mENS/USD: 0.17464788732395373 % [39m
+[90mTue, 06 Sep 2022 18:09:35 GMT[39m	[31mETH/BTC: -0.6436578668465137 % [39m
+[90mTue, 06 Sep 2022 18:09:36 GMT[39m	[31mETH/USD: -0.6195781230264091 % [39m
+[90mTue, 06 Sep 2022 18:09:38 GMT[39m	[31mETH/USDC: -0.7520974938624575 % [39m
+[90mTue, 06 Sep 2022 18:09:39 GMT[39m	[31mETH/USDT: -0.6833375423001214 % [39m
+[90mTue, 06 Sep 2022 18:09:40 GMT[39m	[31mFET/USD: -1.548766603415563 % [39m
+[90mTue, 06 Sep 2022 18:09:41 GMT[39m	[31mFTM/USD: -0.6760334547200703 % [39m
+[90mTue, 06 Sep 2022 18:09:42 GMT[39m	[31mGALA/USD: -0.6839630562552429 % [39m
+[90mTue, 06 Sep 2022 18:09:43 GMT[39m	[31mGRT/USD: -0.6707070707070767 % [39m
+[90mTue, 06 Sep 2022 18:09:44 GMT[39m	[31mHBAR/USD: -0.6508216161273944 % [39m
+[90mTue, 06 Sep 2022 18:09:45 GMT[39m	[31mIMX/USD: -1.7406844106463866 % [39m
+[90mTue, 06 Sep 2022 18:09:46 GMT[39m	[31mKNC/USD: -0.7652694610778327 % [39m
+[90mTue, 06 Sep 2022 18:09:47 GMT[39m	[31mLINK/BTC: -1.2752043748779358 % [39m
+[90mTue, 06 Sep 2022 18:09:48 GMT[39m	[31mLINK/USD: -0.738235294117639 % [39m
+[90mTue, 06 Sep 2022 18:09:49 GMT[39m	[31mLRC/USD: -0.8388772767990321 % [39m
+[90mTue, 06 Sep 2022 18:09:50 GMT[39m	[31mLTC/BTC: -0.7731934956220482 % [39m
+[90mTue, 06 Sep 2022 18:09:52 GMT[39m	[31mLTC/USD: -0.6720980533525539 % [39m
+[90mTue, 06 Sep 2022 18:09:53 GMT[39m	[31mMANA/USD: -1.191080064481453 % [39m
+[90mTue, 06 Sep 2022 18:09:54 GMT[39m	[31mMATIC/USD: -0.6524158963118304 % [39m
+[90mTue, 06 Sep 2022 18:09:55 GMT[39m	[31mMKR/USD: -0.7214694454256371 % [39m
+[90mTue, 06 Sep 2022 18:09:56 GMT[39m	[31mOMG/USD: -1.2204044117646968 % [39m
+[90mTue, 06 Sep 2022 18:09:57 GMT[39m	[31mRAD/USD: -1.5287925696594424 % [39m
+[90mTue, 06 Sep 2022 18:09:58 GMT[39m	[31mRNDR/USD: -1.4421052631578997 % [39m
+[90mTue, 06 Sep 2022 18:09:59 GMT[39m	[31mSKL/USD: -0.9023758099352072 % [39m
+[90mTue, 06 Sep 2022 18:10:00 GMT[39m	[31mSLP/USD: -1.126315789473686 % [39m
+[90mTue, 06 Sep 2022 18:10:01 GMT[39m	[31mSNX/USD: -0.8604316546762519 % [39m
+[90mTue, 06 Sep 2022 18:10:02 GMT[39m	[31mSOL/USD: -0.5797410064539482 % [39m
+[90mTue, 06 Sep 2022 18:10:03 GMT[39m	[31mSTORJ/USD: -0.9127974976200209 % [39m
+[90mTue, 06 Sep 2022 18:10:04 GMT[39m	[31mSUSHI/USD: -0.7668253399830677 % [39m
+[90mTue, 06 Sep 2022 18:10:06 GMT[39m	[31mUNI/BTC: -0.8626665400803807 % [39m
+[90mTue, 06 Sep 2022 18:10:07 GMT[39m	[31mUNI/USD: -0.7736212067089182 % [39m
+[90mTue, 06 Sep 2022 18:10:08 GMT[39m	[31mUSDC/USD: -0.5989999999999934 % [39m
+[90mTue, 06 Sep 2022 18:10:09 GMT[39m	[31mUSDC/USDT: -0.594999499949988 % [39m
+[90mTue, 06 Sep 2022 18:10:10 GMT[39m	[31mUSDT/USD: -0.5979999599992064 % [39m
+[90mTue, 06 Sep 2022 18:10:11 GMT[39m	[31mWBTC/BTC: -0.7797842588893483 % [39m
+[90mTue, 06 Sep 2022 18:10:12 GMT[39m	[31mXLM/USD: -0.6098902185738381 % [39m
+[90mTue, 06 Sep 2022 18:10:17 GMT[39m	[31mYFI/USD: -0.6983517066051265 % [39m
+[90mTue, 06 Sep 2022 18:10:18 GMT[39m	[31mZRX/USD: -0.7426024955436755 % [39m
+Symbol excluded (wallet update, deposit maintenance, bug, etc.):
+[ 'STEEM/BTC', 'STEEM/ETH' ]
+[90mTue, 06 Sep 2022 18:12:01 GMT[39m	[33mbinanceus, bitstamp[39m
+[90mTue, 06 Sep 2022 18:12:02 GMT[39m	[32mbinanceus[39m loaded [32m300[39m markets
+[90mTue, 06 Sep 2022 18:12:05 GMT[39m	[32mbitstamp[39m loaded [32m173[39m markets
+[90mTue, 06 Sep 2022 18:12:05 GMT[39m	[32mLoaded all markets[39m
+[90mTue, 06 Sep 2022 18:12:05 GMT[39m	symbol    | binanceus | bitstamp
+                             	--------------------------------
+                             	1INCH/USD | binanceus | bitstamp
+                             	AAVE/USD  | binanceus | bitstamp
+                             	ADA/BTC   | binanceus | bitstamp
+                             	ADA/USD   | binanceus | bitstamp
+                             	ALGO/USD  | binanceus | bitstamp
+                             	AMP/USD   | binanceus | bitstamp
+                             	ANT/USD   | binanceus | bitstamp
+                             	APE/USD   | binanceus | bitstamp
+                             	AUDIO/USD | binanceus | bitstamp
+                             	AVAX/USD  | binanceus | bitstamp
+                             	AXS/USD   | binanceus | bitstamp
+                             	BAND/USD  | binanceus | bitstamp
+                             	BAT/USD   | binanceus | bitstamp
+                             	BCH/BTC   | binanceus | bitstamp
+                             	BCH/USD   | binanceus | bitstamp
+                             	BTC/USD   | binanceus | bitstamp
+                             	BTC/USDC  | binanceus | bitstamp
+                             	BTC/USDT  | binanceus | bitstamp
+                             	CHZ/USD   | binanceus | bitstamp
+                             	COMP/USD  | binanceus | bitstamp
+                             	CRV/USD   | binanceus | bitstamp
+                             	CTSI/USD  | binanceus | bitstamp
+                             	DAI/USD   | binanceus | bitstamp
+                             	DOT/USD   | binanceus | bitstamp
+                             	ENJ/USD   | binanceus | bitstamp
+                             	ENS/USD   | binanceus | bitstamp
+                             	ETH/BTC   | binanceus | bitstamp
+                             	ETH/USD   | binanceus | bitstamp
+                             	ETH/USDC  | binanceus | bitstamp
+                             	ETH/USDT  | binanceus | bitstamp
+                             	FET/USD   | binanceus | bitstamp
+                             	FTM/USD   | binanceus | bitstamp
+                             	GALA/USD  | binanceus | bitstamp
+                             	GRT/USD   | binanceus | bitstamp
+                             	HBAR/USD  | binanceus | bitstamp
+                             	IMX/USD   | binanceus | bitstamp
+                             	KNC/USD   | binanceus | bitstamp
+                             	LINK/BTC  | binanceus | bitstamp
+                             	LINK/USD  | binanceus | bitstamp
+                             	LRC/USD   | binanceus | bitstamp
+                             	LTC/BTC   | binanceus | bitstamp
+                             	LTC/USD   | binanceus | bitstamp
+                             	MANA/USD  | binanceus | bitstamp
+                             	MATIC/USD | binanceus | bitstamp
+                             	MKR/USD   | binanceus | bitstamp
+                             	OMG/USD   | binanceus | bitstamp
+                             	RAD/USD   | binanceus | bitstamp
+                             	RNDR/USD  | binanceus | bitstamp
+                             	SKL/USD   | binanceus | bitstamp
+                             	SLP/USD   | binanceus | bitstamp
+                             	SNX/USD   | binanceus | bitstamp
+                             	SOL/USD   | binanceus | bitstamp
+                             	STORJ/USD | binanceus | bitstamp
+                             	SUSHI/USD | binanceus | bitstamp
+                             	UNI/BTC   | binanceus | bitstamp
+                             	UNI/USD   | binanceus | bitstamp
+                             	USDC/USD  | binanceus | bitstamp
+                             	USDC/USDT | binanceus | bitstamp
+                             	USDT/USD  | binanceus | bitstamp
+                             	WBTC/BTC  | binanceus | bitstamp
+                             	XLM/USD   | binanceus | bitstamp
+                             	XRP/BTC   | binanceus | bitstamp
+                             	XRP/USD   | binanceus | bitstamp
+                             	XRP/USDT  | binanceus | bitstamp
+                             	YFI/USD   | binanceus | bitstamp
+                             	ZRX/USD   | binanceus | bitstamp
+[90mTue, 06 Sep 2022 18:12:06 GMT[39m	[31m1INCH/USD: -2.2129032258064503 % [39m
+[90mTue, 06 Sep 2022 18:12:08 GMT[39m	[31mAAVE/USD: -0.7979967388772485 % [39m
+[90mTue, 06 Sep 2022 18:12:09 GMT[39m	[31mADA/BTC: -0.8432103769760774 % [39m
+[90mTue, 06 Sep 2022 18:12:10 GMT[39m	[31mADA/USD: -0.6106055785343062 % [39m
+[90mTue, 06 Sep 2022 18:12:11 GMT[39m	[31mALGO/USD: -0.9368406431225601 % [39m
+[90mTue, 06 Sep 2022 18:12:13 GMT[39m	[31mANT/USD: -1.049943757030369 % [39m
+[90mTue, 06 Sep 2022 18:12:14 GMT[39m	[31mAPE/USD: -0.7950732658893894 % [39m
+[90mTue, 06 Sep 2022 18:12:16 GMT[39m	[31mAUDIO/USD: -0.33106060606060644 % [39m
+[90mTue, 06 Sep 2022 18:12:17 GMT[39m	[31mAVAX/USD: -0.7206942176497527 % [39m
+[90mTue, 06 Sep 2022 18:12:18 GMT[39m	[31mAXS/USD: -0.6904405191419988 % [39m
+[90mTue, 06 Sep 2022 18:12:19 GMT[39m	[31mBAND/USD: -2.4193738731355547 % [39m
+[90mTue, 06 Sep 2022 18:12:20 GMT[39m	[31mBAT/USD: -0.7371827648562806 % [39m
+[90mTue, 06 Sep 2022 18:12:21 GMT[39m	[31mBCH/BTC: -0.8809917355371838 % [39m
+[90mTue, 06 Sep 2022 18:12:22 GMT[39m	[31mBCH/USD: -0.6953206239168058 % [39m
+[90mTue, 06 Sep 2022 18:12:24 GMT[39m	[31mBTC/USD: -0.6163720054399019 % [39m
+[90mTue, 06 Sep 2022 18:12:25 GMT[39m	[31mBTC/USDC: -0.6891883442440178 % [39m
+[90mTue, 06 Sep 2022 18:12:26 GMT[39m	[31mBTC/USDT: -0.6461301413925419 % [39m
+[90mTue, 06 Sep 2022 18:12:27 GMT[39m	[31mCHZ/USD: -0.7219512195121841 % [39m
+[90mTue, 06 Sep 2022 18:12:28 GMT[39m	[31mCOMP/USD: -0.7726742931146052 % [39m
+[90mTue, 06 Sep 2022 18:12:29 GMT[39m	[31mCRV/USD: -0.7909226668682873 % [39m
+[90mTue, 06 Sep 2022 18:12:30 GMT[39m	[31mCTSI/USD: -0.822882615156017 % [39m
+[90mTue, 06 Sep 2022 18:12:32 GMT[39m	[31mDAI/USD: -0.6070009101183155 % [39m
+[90mTue, 06 Sep 2022 18:12:33 GMT[39m	[31mDOT/USD: -0.7704545454545569 % [39m
+[90mTue, 06 Sep 2022 18:12:34 GMT[39m	[31mENJ/USD: -0.807189266389074 % [39m
+[90mTue, 06 Sep 2022 18:12:35 GMT[39m	[31mENS/USD: -0.03820224719102098 % [39m
+[90mTue, 06 Sep 2022 18:12:36 GMT[39m	[31mETH/BTC: -0.683044546384492 % [39m
+[90mTue, 06 Sep 2022 18:12:37 GMT[39m	[31mETH/USD: -0.62014859589472 % [39m
+[90mTue, 06 Sep 2022 18:12:39 GMT[39m	[31mETH/USDC: -0.7490753553906043 % [39m
+[90mTue, 06 Sep 2022 18:12:40 GMT[39m	[31mETH/USDT: -0.6793001447542352 % [39m
+[90mTue, 06 Sep 2022 18:12:41 GMT[39m	[31mFET/USD: -0.8819789797487981 % [39m
+[90mTue, 06 Sep 2022 18:12:42 GMT[39m	[31mFTM/USD: -0.6479194952479611 % [39m
+[90mTue, 06 Sep 2022 18:12:43 GMT[39m	[31mGALA/USD: -0.8717959439682116 % [39m
+[90mTue, 06 Sep 2022 18:12:44 GMT[39m	[31mGRT/USD: -0.7107754279959683 % [39m
+[90mTue, 06 Sep 2022 18:12:45 GMT[39m	[31mHBAR/USD: -0.7014198782961384 % [39m
+[90mTue, 06 Sep 2022 18:12:46 GMT[39m	[31mIMX/USD: -1.35949367088608 % [39m
+[90mTue, 06 Sep 2022 18:12:47 GMT[39m	[31mKNC/USD: -0.8383512544802846 % [39m
+[90mTue, 06 Sep 2022 18:12:48 GMT[39m	[31mLINK/BTC: -1.1975483762879486 % [39m
+[90mTue, 06 Sep 2022 18:12:49 GMT[39m	[31mLINK/USD: -0.6146842878120279 % [39m
+[90mTue, 06 Sep 2022 18:12:51 GMT[39m	[31mLRC/USD: -0.8677774471883443 % [39m
+[90mTue, 06 Sep 2022 18:12:52 GMT[39m	[31mLTC/BTC: -0.744967365166615 % [39m
+[90mTue, 06 Sep 2022 18:12:53 GMT[39m	[31mLTC/USD: -0.6899280575539674 % [39m
+[90mTue, 06 Sep 2022 18:12:54 GMT[39m	[31mMANA/USD: -1.039999999999996 % [39m
+[90mTue, 06 Sep 2022 18:12:55 GMT[39m	[31mMATIC/USD: -0.7152196895007562 % [39m
+[90mTue, 06 Sep 2022 18:12:56 GMT[39m	[31mMKR/USD: -0.7455595064877024 % [39m
+[90mTue, 06 Sep 2022 18:12:57 GMT[39m	[31mOMG/USD: -1.0857142857142783 % [39m
+[90mTue, 06 Sep 2022 18:12:58 GMT[39m	[31mRAD/USD: -1.904347826086949 % [39m
+[90mTue, 06 Sep 2022 18:12:59 GMT[39m	[31mRNDR/USD: -1.230252100840334 % [39m
+[90mTue, 06 Sep 2022 18:13:00 GMT[39m	[31mSKL/USD: -1.0095710282388533 % [39m
+[90mTue, 06 Sep 2022 18:13:01 GMT[39m	[31mSLP/USD: -0.8631578947368429 % [39m
+[90mTue, 06 Sep 2022 18:13:02 GMT[39m	[31mSNX/USD: -0.9736436163543355 % [39m
+[90mTue, 06 Sep 2022 18:13:03 GMT[39m	[31mSOL/USD: -0.7462368074195974 % [39m
+[90mTue, 06 Sep 2022 18:13:05 GMT[39m	[31mSTORJ/USD: -0.9161978661493483 % [39m
+[90mTue, 06 Sep 2022 18:13:06 GMT[39m	[31mSUSHI/USD: -0.7465099243031953 % [39m
+[90mTue, 06 Sep 2022 18:13:07 GMT[39m	[31mUNI/BTC: -0.840445456846361 % [39m
+[90mTue, 06 Sep 2022 18:13:08 GMT[39m	[31mUNI/USD: -0.7491916989142638 % [39m
+[90mTue, 06 Sep 2022 18:13:09 GMT[39m	[31mUSDC/USD: -0.5980000000000091 % [39m
+[90mTue, 06 Sep 2022 18:13:10 GMT[39m	[31mUSDC/USDT: -0.5979997999799863 % [39m
+[90mTue, 06 Sep 2022 18:13:11 GMT[39m	[31mUSDT/USD: -0.5979999599992064 % [39m
+[90mTue, 06 Sep 2022 18:13:12 GMT[39m	[31mWBTC/BTC: -0.7797842588893483 % [39m
+[90mTue, 06 Sep 2022 18:13:13 GMT[39m	[31mXLM/USD: -0.6590783773138925 % [39m
+[90mTue, 06 Sep 2022 18:13:18 GMT[39m	[31mYFI/USD: -0.7410413477983208 % [39m
+[90mTue, 06 Sep 2022 18:13:19 GMT[39m	[31mZRX/USD: -0.8310700319943071 % [39m
+Symbol excluded (wallet update, deposit maintenance, bug, etc.):
+[ 'STEEM/BTC', 'STEEM/ETH' ]
+[90mTue, 06 Sep 2022 18:15:01 GMT[39m	[33mbinanceus, bitstamp[39m
+[90mTue, 06 Sep 2022 18:15:03 GMT[39m	[32mbinanceus[39m loaded [32m300[39m markets
+[90mTue, 06 Sep 2022 18:15:05 GMT[39m	[32mbitstamp[39m loaded [32m173[39m markets
+[90mTue, 06 Sep 2022 18:15:05 GMT[39m	[32mLoaded all markets[39m
+[90mTue, 06 Sep 2022 18:15:05 GMT[39m	symbol    | binanceus | bitstamp
+                             	--------------------------------
+                             	1INCH/USD | binanceus | bitstamp
+                             	AAVE/USD  | binanceus | bitstamp
+                             	ADA/BTC   | binanceus | bitstamp
+                             	ADA/USD   | binanceus | bitstamp
+                             	ALGO/USD  | binanceus | bitstamp
+                             	AMP/USD   | binanceus | bitstamp
+                             	ANT/USD   | binanceus | bitstamp
+                             	APE/USD   | binanceus | bitstamp
+                             	AUDIO/USD | binanceus | bitstamp
+                             	AVAX/USD  | binanceus | bitstamp
+                             	AXS/USD   | binanceus | bitstamp
+                             	BAND/USD  | binanceus | bitstamp
+                             	BAT/USD   | binanceus | bitstamp
+                             	BCH/BTC   | binanceus | bitstamp
+                             	BCH/USD   | binanceus | bitstamp
+                             	BTC/USD   | binanceus | bitstamp
+                             	BTC/USDC  | binanceus | bitstamp
+                             	BTC/USDT  | binanceus | bitstamp
+                             	CHZ/USD   | binanceus | bitstamp
+                             	COMP/USD  | binanceus | bitstamp
+                             	CRV/USD   | binanceus | bitstamp
+                             	CTSI/USD  | binanceus | bitstamp
+                             	DAI/USD   | binanceus | bitstamp
+                             	DOT/USD   | binanceus | bitstamp
+                             	ENJ/USD   | binanceus | bitstamp
+                             	ENS/USD   | binanceus | bitstamp
+                             	ETH/BTC   | binanceus | bitstamp
+                             	ETH/USD   | binanceus | bitstamp
+                             	ETH/USDC  | binanceus | bitstamp
+                             	ETH/USDT  | binanceus | bitstamp
+                             	FET/USD   | binanceus | bitstamp
+                             	FTM/USD   | binanceus | bitstamp
+                             	GALA/USD  | binanceus | bitstamp
+                             	GRT/USD   | binanceus | bitstamp
+                             	HBAR/USD  | binanceus | bitstamp
+                             	IMX/USD   | binanceus | bitstamp
+                             	KNC/USD   | binanceus | bitstamp
+                             	LINK/BTC  | binanceus | bitstamp
+                             	LINK/USD  | binanceus | bitstamp
+                             	LRC/USD   | binanceus | bitstamp
+                             	LTC/BTC   | binanceus | bitstamp
+                             	LTC/USD   | binanceus | bitstamp
+                             	MANA/USD  | binanceus | bitstamp
+                             	MATIC/USD | binanceus | bitstamp
+                             	MKR/USD   | binanceus | bitstamp
+                             	OMG/USD   | binanceus | bitstamp
+                             	RAD/USD   | binanceus | bitstamp
+                             	RNDR/USD  | binanceus | bitstamp
+                             	SKL/USD   | binanceus | bitstamp
+                             	SLP/USD   | binanceus | bitstamp
+                             	SNX/USD   | binanceus | bitstamp
+                             	SOL/USD   | binanceus | bitstamp
+                             	STORJ/USD | binanceus | bitstamp
+                             	SUSHI/USD | binanceus | bitstamp
+                             	UNI/BTC   | binanceus | bitstamp
+                             	UNI/USD   | binanceus | bitstamp
+                             	USDC/USD  | binanceus | bitstamp
+                             	USDC/USDT | binanceus | bitstamp
+                             	USDT/USD  | binanceus | bitstamp
+                             	WBTC/BTC  | binanceus | bitstamp
+                             	XLM/USD   | binanceus | bitstamp
+                             	XRP/BTC   | binanceus | bitstamp
+                             	XRP/USD   | binanceus | bitstamp
+                             	XRP/USDT  | binanceus | bitstamp
+                             	YFI/USD   | binanceus | bitstamp
+                             	ZRX/USD   | binanceus | bitstamp
+[90mTue, 06 Sep 2022 18:15:06 GMT[39m	[31m1INCH/USD: -2.2129032258064503 % [39m
+[90mTue, 06 Sep 2022 18:15:08 GMT[39m	[31mAAVE/USD: -0.6815660685154928 % [39m
+[90mTue, 06 Sep 2022 18:15:09 GMT[39m	[31mADA/BTC: -0.7620089104900746 % [39m
+[90mTue, 06 Sep 2022 18:15:10 GMT[39m	[31mADA/USD: -0.4684712970427269 % [39m
+[90mTue, 06 Sep 2022 18:15:11 GMT[39m	[31mALGO/USD: -0.6520562207183883 % [39m
+[90mTue, 06 Sep 2022 18:15:13 GMT[39m	[31mANT/USD: -1.2145251396648122 % [39m
+[90mTue, 06 Sep 2022 18:15:14 GMT[39m	[31mAPE/USD: -0.6860936154787217 % [39m
+[90mTue, 06 Sep 2022 18:15:15 GMT[39m	[31mAUDIO/USD: -0.7018867924528321 % [39m
+[90mTue, 06 Sep 2022 18:15:16 GMT[39m	[31mAVAX/USD: -0.7106474949396308 % [39m
+[90mTue, 06 Sep 2022 18:15:17 GMT[39m	[31mAXS/USD: -0.8027225293098622 % [39m
+[90mTue, 06 Sep 2022 18:15:18 GMT[39m	[31mBAND/USD: -2.4193738731355547 % [39m
+[90mTue, 06 Sep 2022 18:15:20 GMT[39m	[31mBAT/USD: -0.7463855234061229 % [39m
+[90mTue, 06 Sep 2022 18:15:21 GMT[39m	[31mBCH/BTC: -0.7652892561983421 % [39m
+[90mTue, 06 Sep 2022 18:15:22 GMT[39m	[31mBCH/USD: -0.7126028583802618 % [39m
+[90mTue, 06 Sep 2022 18:15:23 GMT[39m	[31mBTC/USD: -0.6253389874875664 % [39m
+[90mTue, 06 Sep 2022 18:15:24 GMT[39m	[31mBTC/USDC: -0.6688296087704154 % [39m
+[90mTue, 06 Sep 2022 18:15:25 GMT[39m	[31mBTC/USDT: -0.6457050594401376 % [39m
+[90mTue, 06 Sep 2022 18:15:26 GMT[39m	[31mCHZ/USD: -0.7798561151079125 % [39m
+[90mTue, 06 Sep 2022 18:15:28 GMT[39m	[31mCOMP/USD: -0.7723766429648776 % [39m
+[90mTue, 06 Sep 2022 18:15:29 GMT[39m	[31mCRV/USD: -0.7533190740285017 % [39m
+[90mTue, 06 Sep 2022 18:15:30 GMT[39m	[31mCTSI/USD: -0.822882615156017 % [39m
+[90mTue, 06 Sep 2022 18:15:31 GMT[39m	[31mDAI/USD: -0.6010001900361045 % [39m
+[90mTue, 06 Sep 2022 18:15:32 GMT[39m	[31mDOT/USD: -0.7560062402496065 % [39m
+[90mTue, 06 Sep 2022 18:15:33 GMT[39m	[31mENJ/USD: -0.7927865692023522 % [39m
+[90mTue, 06 Sep 2022 18:15:34 GMT[39m	[31mENS/USD: -0.17924263674613475 % [39m
+[90mTue, 06 Sep 2022 18:15:35 GMT[39m	[31mETH/BTC: -0.6400057648655583 % [39m
+[90mTue, 06 Sep 2022 18:15:37 GMT[39m	[31mETH/USD: -0.6157153633391971 % [39m
+[90mTue, 06 Sep 2022 18:15:38 GMT[39m	[31mETH/USDC: -0.6666180648080772 % [39m
+[90mTue, 06 Sep 2022 18:15:39 GMT[39m	[31mETH/USDT: -0.6389741010812128 % [39m
+[90mTue, 06 Sep 2022 18:15:40 GMT[39m	[31mFET/USD: -0.7029601029601146 % [39m
+[90mTue, 06 Sep 2022 18:15:41 GMT[39m	[31mFTM/USD: -0.7316156822079528 % [39m
+[90mTue, 06 Sep 2022 18:15:42 GMT[39m	[31mGALA/USD: -0.6836120401337736 % [39m
+[90mTue, 06 Sep 2022 18:15:43 GMT[39m	[31mGRT/USD: -0.7106528518257765 % [39m
+[90mTue, 06 Sep 2022 18:15:44 GMT[39m	[31mHBAR/USD: -0.6675219446319985 % [39m
+[90mTue, 06 Sep 2022 18:15:45 GMT[39m	[31mIMX/USD: -1.2329113924050668 % [39m
+[90mTue, 06 Sep 2022 18:15:46 GMT[39m	[31mKNC/USD: -0.8338902147971278 % [39m
+[90mTue, 06 Sep 2022 18:15:47 GMT[39m	[31mLINK/BTC: -1.0300114483567486 % [39m
+[90mTue, 06 Sep 2022 18:15:48 GMT[39m	[31mLINK/USD: -0.6 % [39m
+[90mTue, 06 Sep 2022 18:15:50 GMT[39m	[31mLRC/USD: -0.8082093991671585 % [39m
+[90mTue, 06 Sep 2022 18:15:51 GMT[39m	[31mLTC/BTC: -0.7062371487320024 % [39m
+[90mTue, 06 Sep 2022 18:15:52 GMT[39m	[31mLTC/USD: -0.6538020086083279 % [39m
+[90mTue, 06 Sep 2022 18:15:53 GMT[39m	[31mMANA/USD: -0.9733333333333366 % [39m
+[90mTue, 06 Sep 2022 18:15:54 GMT[39m	[31mMATIC/USD: -0.6628833809902307 % [39m
+[90mTue, 06 Sep 2022 18:15:55 GMT[39m	[31mMKR/USD: -0.7319251014037959 % [39m
+[90mTue, 06 Sep 2022 18:15:56 GMT[39m	[31mOMG/USD: -0.937142857142858 % [39m
+[90mTue, 06 Sep 2022 18:15:57 GMT[39m	[31mRAD/USD: -1.382608695652165 % [39m
+[90mTue, 06 Sep 2022 18:15:58 GMT[39m	[31mRNDR/USD: -1.4385744234800875 % [39m
+[90mTue, 06 Sep 2022 18:15:59 GMT[39m	[31mSKL/USD: -1.030107526881718 % [39m
+[90mTue, 06 Sep 2022 18:16:00 GMT[39m	[31mSLP/USD: -0.6 % [39m
+[90mTue, 06 Sep 2022 18:16:01 GMT[39m	[31mSNX/USD: -0.9030216403190344 % [39m
+[90mTue, 06 Sep 2022 18:16:02 GMT[39m	[31mSOL/USD: -0.6233569355700513 % [39m
+[90mTue, 06 Sep 2022 18:16:04 GMT[39m	[31mSTORJ/USD: -0.875300504071363 % [39m
+[90mTue, 06 Sep 2022 18:16:05 GMT[39m	[31mSUSHI/USD: -0.8836079791847414 % [39m
+[90mTue, 06 Sep 2022 18:16:06 GMT[39m	[31mUNI/BTC: -0.8245414294750225 % [39m
+[90mTue, 06 Sep 2022 18:16:07 GMT[39m	[31mUNI/USD: -0.6898709036742717 % [39m
+[90mTue, 06 Sep 2022 18:16:08 GMT[39m	[31mUSDC/USD: -0.5989999999999934 % [39m
+[90mTue, 06 Sep 2022 18:16:09 GMT[39m	[31mUSDC/USDT: -0.5979997999799863 % [39m
+[90mTue, 06 Sep 2022 18:16:10 GMT[39m	[31mUSDT/USD: -0.5979999599992064 % [39m
+[90mTue, 06 Sep 2022 18:16:11 GMT[39m	[31mWBTC/BTC: -0.7797842588893483 % [39m
+[90mTue, 06 Sep 2022 18:16:12 GMT[39m	[31mXLM/USD: -0.6098425196850327 % [39m
+[90mTue, 06 Sep 2022 18:16:17 GMT[39m	[31mYFI/USD: -0.7191645255166906 % [39m
+[90mTue, 06 Sep 2022 18:16:18 GMT[39m	[31mZRX/USD: -0.8702126146625794 % [39m
+Symbol excluded (wallet update, deposit maintenance, bug, etc.):
+[ 'STEEM/BTC', 'STEEM/ETH' ]
+[90mTue, 06 Sep 2022 18:18:01 GMT[39m	[33mbinanceus, bitstamp[39m
+[90mTue, 06 Sep 2022 18:18:03 GMT[39m	[32mbinanceus[39m loaded [32m300[39m markets
+[90mTue, 06 Sep 2022 18:18:05 GMT[39m	[32mbitstamp[39m loaded [32m173[39m markets
+[90mTue, 06 Sep 2022 18:18:05 GMT[39m	[32mLoaded all markets[39m
+[90mTue, 06 Sep 2022 18:18:05 GMT[39m	symbol    | binanceus | bitstamp
+                             	--------------------------------
+                             	1INCH/USD | binanceus | bitstamp
+                             	AAVE/USD  | binanceus | bitstamp
+                             	ADA/BTC   | binanceus | bitstamp
+                             	ADA/USD   | binanceus | bitstamp
+                             	ALGO/USD  | binanceus | bitstamp
+                             	AMP/USD   | binanceus | bitstamp
+                             	ANT/USD   | binanceus | bitstamp
+                             	APE/USD   | binanceus | bitstamp
+                             	AUDIO/USD | binanceus | bitstamp
+                             	AVAX/USD  | binanceus | bitstamp
+                             	AXS/USD   | binanceus | bitstamp
+                             	BAND/USD  | binanceus | bitstamp
+                             	BAT/USD   | binanceus | bitstamp
+                             	BCH/BTC   | binanceus | bitstamp
+                             	BCH/USD   | binanceus | bitstamp
+                             	BTC/USD   | binanceus | bitstamp
+                             	BTC/USDC  | binanceus | bitstamp
+                             	BTC/USDT  | binanceus | bitstamp
+                             	CHZ/USD   | binanceus | bitstamp
+                             	COMP/USD  | binanceus | bitstamp
+                             	CRV/USD   | binanceus | bitstamp
+                             	CTSI/USD  | binanceus | bitstamp
+                             	DAI/USD   | binanceus | bitstamp
+                             	DOT/USD   | binanceus | bitstamp
+                             	ENJ/USD   | binanceus | bitstamp
+                             	ENS/USD   | binanceus | bitstamp
+                             	ETH/BTC   | binanceus | bitstamp
+                             	ETH/USD   | binanceus | bitstamp
+                             	ETH/USDC  | binanceus | bitstamp
+                             	ETH/USDT  | binanceus | bitstamp
+                             	FET/USD   | binanceus | bitstamp
+                             	FTM/USD   | binanceus | bitstamp
+                             	GALA/USD  | binanceus | bitstamp
+                             	GRT/USD   | binanceus | bitstamp
+                             	HBAR/USD  | binanceus | bitstamp
+                             	IMX/USD   | binanceus | bitstamp
+                             	KNC/USD   | binanceus | bitstamp
+                             	LINK/BTC  | binanceus | bitstamp
+                             	LINK/USD  | binanceus | bitstamp
+                             	LRC/USD   | binanceus | bitstamp
+                             	LTC/BTC   | binanceus | bitstamp
+                             	LTC/USD   | binanceus | bitstamp
+                             	MANA/USD  | binanceus | bitstamp
+                             	MATIC/USD | binanceus | bitstamp
+                             	MKR/USD   | binanceus | bitstamp
+                             	OMG/USD   | binanceus | bitstamp
+                             	RAD/USD   | binanceus | bitstamp
+                             	RNDR/USD  | binanceus | bitstamp
+                             	SKL/USD   | binanceus | bitstamp
+                             	SLP/USD   | binanceus | bitstamp
+                             	SNX/USD   | binanceus | bitstamp
+                             	SOL/USD   | binanceus | bitstamp
+                             	STORJ/USD | binanceus | bitstamp
+                             	SUSHI/USD | binanceus | bitstamp
+                             	UNI/BTC   | binanceus | bitstamp
+                             	UNI/USD   | binanceus | bitstamp
+                             	USDC/USD  | binanceus | bitstamp
+                             	USDC/USDT | binanceus | bitstamp
+                             	USDT/USD  | binanceus | bitstamp
+                             	WBTC/BTC  | binanceus | bitstamp
+                             	XLM/USD   | binanceus | bitstamp
+                             	XRP/BTC   | binanceus | bitstamp
+                             	XRP/USD   | binanceus | bitstamp
+                             	XRP/USDT  | binanceus | bitstamp
+                             	YFI/USD   | binanceus | bitstamp
+                             	ZRX/USD   | binanceus | bitstamp
+[90mTue, 06 Sep 2022 18:18:06 GMT[39m	[31m1INCH/USD: -2.0539579967689843 % [39m
+[90mTue, 06 Sep 2022 18:18:08 GMT[39m	[31mAAVE/USD: -0.7284596519911196 % [39m
+[90mTue, 06 Sep 2022 18:18:09 GMT[39m	[31mADA/BTC: -0.7620089104900746 % [39m
+[90mTue, 06 Sep 2022 18:18:10 GMT[39m	[31mADA/USD: -0.45982499362842105 % [39m
+[90mTue, 06 Sep 2022 18:18:11 GMT[39m	[31mALGO/USD: -0.6731172312941952 % [39m
+[90mTue, 06 Sep 2022 18:18:13 GMT[39m	[31mANT/USD: -0.8808988764045006 % [39m
+[90mTue, 06 Sep 2022 18:18:15 GMT[39m	[31mAPE/USD: -0.6613260044972419 % [39m
+[90mTue, 06 Sep 2022 18:18:16 GMT[39m	[31mAUDIO/USD: -0.1962264150943577 % [39m
+[90mTue, 06 Sep 2022 18:18:17 GMT[39m	[31mAVAX/USD: -0.7395474137931063 % [39m
+[90mTue, 06 Sep 2022 18:18:18 GMT[39m	[31mAXS/USD: -0.7596552755429803 % [39m
+[90mTue, 06 Sep 2022 18:18:19 GMT[39m	[31mBAND/USD: -2.314660759701381 % [39m
+[90mTue, 06 Sep 2022 18:18:20 GMT[39m	[31mBAT/USD: -0.7279251170046902 % [39m
+[90mTue, 06 Sep 2022 18:18:21 GMT[39m	[31mBCH/BTC: -0.8152317880794729 % [39m
+[90mTue, 06 Sep 2022 18:18:22 GMT[39m	[31mBCH/USD: -0.7216333622936605 % [39m
+[90mTue, 06 Sep 2022 18:18:24 GMT[39m	[31mBTC/USD: -0.6244183609306225 % [39m
+[90mTue, 06 Sep 2022 18:18:25 GMT[39m	[31mBTC/USDC: -0.6990731344151507 % [39m
+[90mTue, 06 Sep 2022 18:18:26 GMT[39m	[31mBTC/USDT: -0.5514827622341117 % [39m
+[90mTue, 06 Sep 2022 18:18:27 GMT[39m	[31mCHZ/USD: -0.6636875066341247 % [39m
+[90mTue, 06 Sep 2022 18:18:28 GMT[39m	[31mCOMP/USD: -0.8587322121604285 % [39m
+[90mTue, 06 Sep 2022 18:18:29 GMT[39m	[31mCRV/USD: -0.8415802188432625 % [39m
+[90mTue, 06 Sep 2022 18:18:30 GMT[39m	[31mCTSI/USD: -0.8969561989606406 % [39m
+[90mTue, 06 Sep 2022 18:18:31 GMT[39m	[31mDAI/USD: -0.6090009901089094 % [39m
+[90mTue, 06 Sep 2022 18:18:33 GMT[39m	[31mDOT/USD: -0.8695035460992923 % [39m
+[90mTue, 06 Sep 2022 18:18:34 GMT[39m	[31mENJ/USD: -0.8090452261306552 % [39m
+[90mTue, 06 Sep 2022 18:18:35 GMT[39m	[31mENS/USD: 0.10521861777150807 % [39m
+[90mTue, 06 Sep 2022 18:18:36 GMT[39m	[31mETH/BTC: -0.6106692648190964 % [39m
+[90mTue, 06 Sep 2022 18:18:37 GMT[39m	[31mETH/USD: -0.637819098644809 % [39m
+[90mTue, 06 Sep 2022 18:18:38 GMT[39m	[31mETH/USDC: -0.6831852384013287 % [39m
+[90mTue, 06 Sep 2022 18:18:39 GMT[39m	[31mETH/USDT: -0.657347760601445 % [39m
+[90mTue, 06 Sep 2022 18:18:40 GMT[39m	[31mFET/USD: -0.9465982028241223 % [39m
+[90mTue, 06 Sep 2022 18:18:42 GMT[39m	[31mFTM/USD: -0.7199040767385972 % [39m
+[90mTue, 06 Sep 2022 18:18:43 GMT[39m	[31mGALA/USD: -0.5162479061976416 % [39m
+[90mTue, 06 Sep 2022 18:18:44 GMT[39m	[31mGRT/USD: -0.721089808274466 % [39m
+[90mTue, 06 Sep 2022 18:18:45 GMT[39m	[31mHBAR/USD: -0.718503470458775 % [39m
+[90mTue, 06 Sep 2022 18:18:46 GMT[39m	[31mIMX/USD: -1.35949367088608 % [39m
+[90mTue, 06 Sep 2022 18:18:47 GMT[39m	[31mKNC/USD: -0.7806220095693756 % [39m
+[90mTue, 06 Sep 2022 18:18:48 GMT[39m	[31mLINK/BTC: -1.3196451981813513 % [39m
+[90mTue, 06 Sep 2022 18:18:49 GMT[39m	[31mLINK/USD: -0.6984324268735292 % [39m
+[90mTue, 06 Sep 2022 18:18:50 GMT[39m	[31mLRC/USD: -0.8086438152012038 % [39m
+[90mTue, 06 Sep 2022 18:18:51 GMT[39m	[31mLTC/BTC: -0.758799298950818 % [39m
+[90mTue, 06 Sep 2022 18:18:52 GMT[39m	[31mLTC/USD: -0.6539471318108275 % [39m
+[90mTue, 06 Sep 2022 18:18:53 GMT[39m	[31mMANA/USD: -1.1733333333333258 % [39m
+[90mTue, 06 Sep 2022 18:18:54 GMT[39m	[31mMATIC/USD: -0.6854985037761824 % [39m
+[90mTue, 06 Sep 2022 18:18:55 GMT[39m	[31mMKR/USD: -0.7727830687830667 % [39m
+[90mTue, 06 Sep 2022 18:18:57 GMT[39m	[31mOMG/USD: -1.203274920999708 % [39m
+[90mTue, 06 Sep 2022 18:18:58 GMT[39m	[31mRAD/USD: -1.7304347826086914 % [39m
+[90mTue, 06 Sep 2022 18:18:59 GMT[39m	[31mRNDR/USD: -1.230252100840334 % [39m
+[90mTue, 06 Sep 2022 18:19:00 GMT[39m	[31mSKL/USD: -1.0741379310344796 % [39m
+[90mTue, 06 Sep 2022 18:19:01 GMT[39m	[31mSLP/USD: -0.6 % [39m
+[90mTue, 06 Sep 2022 18:19:02 GMT[39m	[31mSNX/USD: -1.0043853342918792 % [39m
+[90mTue, 06 Sep 2022 18:19:03 GMT[39m	[31mSOL/USD: -0.6950021182904659 % [39m
+[90mTue, 06 Sep 2022 18:19:04 GMT[39m	[31mSTORJ/USD: -0.8681173499125777 % [39m
+[90mTue, 06 Sep 2022 18:19:05 GMT[39m	[31mSUSHI/USD: -0.7585365853658427 % [39m
+[90mTue, 06 Sep 2022 18:19:06 GMT[39m	[31mUNI/BTC: -0.8412545235223162 % [39m
+[90mTue, 06 Sep 2022 18:19:07 GMT[39m	[31mUNI/USD: -0.891147453707552 % [39m
+[90mTue, 06 Sep 2022 18:19:08 GMT[39m	[31mUSDC/USD: -0.6 % [39m
+[90mTue, 06 Sep 2022 18:19:09 GMT[39m	[31mUSDC/USDT: -0.5969996999700017 % [39m
+[90mTue, 06 Sep 2022 18:19:11 GMT[39m	[31mUSDT/USD: -0.5979999599992064 % [39m
+[90mTue, 06 Sep 2022 18:19:12 GMT[39m	[31mWBTC/BTC: -0.7797842588893483 % [39m
+[90mTue, 06 Sep 2022 18:19:13 GMT[39m	[31mXLM/USD: -0.6689859071646759 % [39m
+[90mTue, 06 Sep 2022 18:19:17 GMT[39m	[31mYFI/USD: -0.7227515703987714 % [39m
+[90mTue, 06 Sep 2022 18:19:18 GMT[39m	[31mZRX/USD: -0.8136752136752129 % [39m
+Symbol excluded (wallet update, deposit maintenance, bug, etc.):
+[ 'STEEM/BTC', 'STEEM/ETH' ]
+[90mTue, 06 Sep 2022 18:21:01 GMT[39m	[33mbinanceus, bitstamp[39m
+[90mTue, 06 Sep 2022 18:21:03 GMT[39m	[32mbinanceus[39m loaded [32m300[39m markets
+[90mTue, 06 Sep 2022 18:21:05 GMT[39m	[32mbitstamp[39m loaded [32m173[39m markets
+[90mTue, 06 Sep 2022 18:21:05 GMT[39m	[32mLoaded all markets[39m
+[90mTue, 06 Sep 2022 18:21:05 GMT[39m	symbol    | binanceus | bitstamp
+                             	--------------------------------
+                             	1INCH/USD | binanceus | bitstamp
+                             	AAVE/USD  | binanceus | bitstamp
+                             	ADA/BTC   | binanceus | bitstamp
+                             	ADA/USD   | binanceus | bitstamp
+                             	ALGO/USD  | binanceus | bitstamp
+                             	AMP/USD   | binanceus | bitstamp
+                             	ANT/USD   | binanceus | bitstamp
+                             	APE/USD   | binanceus | bitstamp
+                             	AUDIO/USD | binanceus | bitstamp
+                             	AVAX/USD  | binanceus | bitstamp
+                             	AXS/USD   | binanceus | bitstamp
+                             	BAND/USD  | binanceus | bitstamp
+                             	BAT/USD   | binanceus | bitstamp
+                             	BCH/BTC   | binanceus | bitstamp
+                             	BCH/USD   | binanceus | bitstamp
+                             	BTC/USD   | binanceus | bitstamp
+                             	BTC/USDC  | binanceus | bitstamp
+                             	BTC/USDT  | binanceus | bitstamp
+                             	CHZ/USD   | binanceus | bitstamp
+                             	COMP/USD  | binanceus | bitstamp
+                             	CRV/USD   | binanceus | bitstamp
+                             	CTSI/USD  | binanceus | bitstamp
+                             	DAI/USD   | binanceus | bitstamp
+                             	DOT/USD   | binanceus | bitstamp
+                             	ENJ/USD   | binanceus | bitstamp
+                             	ENS/USD   | binanceus | bitstamp
+                             	ETH/BTC   | binanceus | bitstamp
+                             	ETH/USD   | binanceus | bitstamp
+                             	ETH/USDC  | binanceus | bitstamp
+                             	ETH/USDT  | binanceus | bitstamp
+                             	FET/USD   | binanceus | bitstamp
+                             	FTM/USD   | binanceus | bitstamp
+                             	GALA/USD  | binanceus | bitstamp
+                             	GRT/USD   | binanceus | bitstamp
+                             	HBAR/USD  | binanceus | bitstamp
+                             	IMX/USD   | binanceus | bitstamp
+                             	KNC/USD   | binanceus | bitstamp
+                             	LINK/BTC  | binanceus | bitstamp
+                             	LINK/USD  | binanceus | bitstamp
+                             	LRC/USD   | binanceus | bitstamp
+                             	LTC/BTC   | binanceus | bitstamp
+                             	LTC/USD   | binanceus | bitstamp
+                             	MANA/USD  | binanceus | bitstamp
+                             	MATIC/USD | binanceus | bitstamp
+                             	MKR/USD   | binanceus | bitstamp
+                             	OMG/USD   | binanceus | bitstamp
+                             	RAD/USD   | binanceus | bitstamp
+                             	RNDR/USD  | binanceus | bitstamp
+                             	SKL/USD   | binanceus | bitstamp
+                             	SLP/USD   | binanceus | bitstamp
+                             	SNX/USD   | binanceus | bitstamp
+                             	SOL/USD   | binanceus | bitstamp
+                             	STORJ/USD | binanceus | bitstamp
+                             	SUSHI/USD | binanceus | bitstamp
+                             	UNI/BTC   | binanceus | bitstamp
+                             	UNI/USD   | binanceus | bitstamp
+                             	USDC/USD  | binanceus | bitstamp
+                             	USDC/USDT | binanceus | bitstamp
+                             	USDT/USD  | binanceus | bitstamp
+                             	WBTC/BTC  | binanceus | bitstamp
+                             	XLM/USD   | binanceus | bitstamp
+                             	XRP/BTC   | binanceus | bitstamp
+                             	XRP/USD   | binanceus | bitstamp
+                             	XRP/USDT  | binanceus | bitstamp
+                             	YFI/USD   | binanceus | bitstamp
+                             	ZRX/USD   | binanceus | bitstamp
+[90mTue, 06 Sep 2022 18:21:06 GMT[39m	[31m1INCH/USD: -1.7345218800648317 % [39m
+[90mTue, 06 Sep 2022 18:21:07 GMT[39m	[31mAAVE/USD: -0.7286549707602336 % [39m
+[90mTue, 06 Sep 2022 18:21:08 GMT[39m	[31mADA/BTC: -0.6811030008110336 % [39m
+[90mTue, 06 Sep 2022 18:21:09 GMT[39m	[31mADA/USD: -0.36809004063742495 % [39m
+[90mTue, 06 Sep 2022 18:21:10 GMT[39m	[31mALGO/USD: -0.8090592334494712 % [39m
+[90mTue, 06 Sep 2022 18:21:13 GMT[39m	[31mANT/USD: -0.8808988764045006 % [39m
+[90mTue, 06 Sep 2022 18:21:14 GMT[39m	[31mAPE/USD: -0.766010961271712 % [39m
+[90mTue, 06 Sep 2022 18:21:15 GMT[39m	[31mAUDIO/USD: -0.5659090909090997 % [39m
+[90mTue, 06 Sep 2022 18:21:16 GMT[39m	[31mAVAX/USD: -0.6230561555075503 % [39m
+[90mTue, 06 Sep 2022 18:21:17 GMT[39m	[31mAXS/USD: -0.7133888341837474 % [39m
+[90mTue, 06 Sep 2022 18:21:18 GMT[39m	[31mBAND/USD: -2.16930408347713 % [39m
+[90mTue, 06 Sep 2022 18:21:19 GMT[39m	[31mBAT/USD: -0.7374398700568435 % [39m
+[90mTue, 06 Sep 2022 18:21:20 GMT[39m	[31mBCH/BTC: -0.8152317880794729 % [39m
+[90mTue, 06 Sep 2022 18:21:21 GMT[39m	[31mBCH/USD: -0.7129943502824804 % [39m
+[90mTue, 06 Sep 2022 18:21:23 GMT[39m	[31mBTC/USD: -0.6300586537185343 % [39m
+[90mTue, 06 Sep 2022 18:21:24 GMT[39m	[31mBTC/USDC: -0.6270211420761224 % [39m
+[90mTue, 06 Sep 2022 18:21:25 GMT[39m	[31mBTC/USDT: -0.6456532348203087 % [39m
+[90mTue, 06 Sep 2022 18:21:26 GMT[39m	[31mCHZ/USD: -0.6850792300329694 % [39m
+[90mTue, 06 Sep 2022 18:21:27 GMT[39m	[31mCOMP/USD: -0.7296456352636199 % [39m
+[90mTue, 06 Sep 2022 18:21:28 GMT[39m	[31mCRV/USD: -0.6485478481880186 % [39m
+[90mTue, 06 Sep 2022 18:21:29 GMT[39m	[31mCTSI/USD: -0.822882615156017 % [39m
+[90mTue, 06 Sep 2022 18:21:30 GMT[39m	[31mDAI/USD: -0.6010001900361045 % [39m
+[90mTue, 06 Sep 2022 18:21:31 GMT[39m	[31mDOT/USD: -0.7709401709401592 % [39m
+[90mTue, 06 Sep 2022 18:21:33 GMT[39m	[31mENJ/USD: -0.8034649476228889 % [39m
+[90mTue, 06 Sep 2022 18:21:34 GMT[39m	[31mENS/USD: 0.0364922206506307 % [39m
+[90mTue, 06 Sep 2022 18:21:35 GMT[39m	[31mETH/BTC: -0.6485102070049814 % [39m
+[90mTue, 06 Sep 2022 18:21:36 GMT[39m	[31mETH/USD: -0.6296966518604669 % [39m
+[90mTue, 06 Sep 2022 18:21:37 GMT[39m	[31mETH/USDC: -0.6707597831718032 % [39m
+[90mTue, 06 Sep 2022 18:21:38 GMT[39m	[31mETH/USDT: -0.6644346178142796 % [39m
+[90mTue, 06 Sep 2022 18:21:39 GMT[39m	[31mFET/USD: -0.8574002574002643 % [39m
+[90mTue, 06 Sep 2022 18:21:40 GMT[39m	[31mFTM/USD: -0.6602288697048703 % [39m
+[90mTue, 06 Sep 2022 18:21:42 GMT[39m	[31mGALA/USD: -0.7258917331095177 % [39m
+[90mTue, 06 Sep 2022 18:21:43 GMT[39m	[31mGRT/USD: -0.7617795753286244 % [39m
+[90mTue, 06 Sep 2022 18:21:44 GMT[39m	[31mHBAR/USD: -0.6851063829787168 % [39m
+[90mTue, 06 Sep 2022 18:21:45 GMT[39m	[31mIMX/USD: -1.2369426751592356 % [39m
+[90mTue, 06 Sep 2022 18:21:46 GMT[39m	[31mKNC/USD: -0.7754491017963988 % [39m
+[90mTue, 06 Sep 2022 18:21:47 GMT[39m	[31mLINK/BTC: -1.2309676698866396 % [39m
+[90mTue, 06 Sep 2022 18:21:48 GMT[39m	[31mLINK/USD: -0.7516936671575819 % [39m
+[90mTue, 06 Sep 2022 18:21:49 GMT[39m	[31mLRC/USD: -0.8096436058700135 % [39m
+[90mTue, 06 Sep 2022 18:21:51 GMT[39m	[31mLTC/BTC: -0.6168414395649963 % [39m
+[90mTue, 06 Sep 2022 18:21:52 GMT[39m	[31mLTC/USD: -0.6901875901875848 % [39m
+[90mTue, 06 Sep 2022 18:21:53 GMT[39m	[31mMANA/USD: -1.280000000000003 % [39m
+[90mTue, 06 Sep 2022 18:21:54 GMT[39m	[31mMATIC/USD: -0.6358080687514861 % [39m
+[90mTue, 06 Sep 2022 18:21:55 GMT[39m	[31mMKR/USD: -0.7793782026524471 % [39m
+[90mTue, 06 Sep 2022 18:21:56 GMT[39m	[31mOMG/USD: -1.1747126436781659 % [39m
+[90mTue, 06 Sep 2022 18:21:57 GMT[39m	[31mRAD/USD: -1.860869565217393 % [39m
+[90mTue, 06 Sep 2022 18:21:58 GMT[39m	[31mRNDR/USD: -1.230252100840334 % [39m
+[90mTue, 06 Sep 2022 18:21:59 GMT[39m	[31mSKL/USD: -1.0751619870410285 % [39m
+[90mTue, 06 Sep 2022 18:22:00 GMT[39m	[31mSLP/USD: -0.8631578947368429 % [39m
+[90mTue, 06 Sep 2022 18:22:01 GMT[39m	[31mSNX/USD: -0.8779845580117457 % [39m
+[90mTue, 06 Sep 2022 18:22:02 GMT[39m	[31mSOL/USD: -0.6775827656807393 % [39m
+[90mTue, 06 Sep 2022 18:22:03 GMT[39m	[31mSTORJ/USD: -0.8720031086069663 % [39m
+[90mTue, 06 Sep 2022 18:22:05 GMT[39m	[31mSUSHI/USD: -0.7806172397846528 % [39m
+[90mTue, 06 Sep 2022 18:22:06 GMT[39m	[31mUNI/BTC: -0.953536962130152 % [39m
+[90mTue, 06 Sep 2022 18:22:07 GMT[39m	[31mUNI/USD: -0.8628536435597461 % [39m
+[90mTue, 06 Sep 2022 18:22:08 GMT[39m	[31mUSDC/USD: -0.5989999999999934 % [39m
+[90mTue, 06 Sep 2022 18:22:09 GMT[39m	[31mUSDC/USDT: -0.5959995999599949 % [39m
+[90mTue, 06 Sep 2022 18:22:10 GMT[39m	[31mUSDT/USD: -0.5979999599992064 % [39m
+[90mTue, 06 Sep 2022 18:22:11 GMT[39m	[31mWBTC/BTC: -0.7797842588893483 % [39m
+[90mTue, 06 Sep 2022 18:22:12 GMT[39m	[31mXLM/USD: -0.6592534070709138 % [39m
+[90mTue, 06 Sep 2022 18:22:17 GMT[39m	[31mYFI/USD: -0.7202915886163058 % [39m
+[90mTue, 06 Sep 2022 18:22:18 GMT[39m	[31mZRX/USD: -0.8176162106239498 % [39m
+Symbol excluded (wallet update, deposit maintenance, bug, etc.):
+[ 'STEEM/BTC', 'STEEM/ETH' ]
+[90mTue, 06 Sep 2022 18:24:01 GMT[39m	[33mbinanceus, bitstamp[39m
+[90mTue, 06 Sep 2022 18:24:02 GMT[39m	[32mbinanceus[39m loaded [32m300[39m markets
+[90mTue, 06 Sep 2022 18:24:04 GMT[39m	[32mbitstamp[39m loaded [32m173[39m markets
+[90mTue, 06 Sep 2022 18:24:04 GMT[39m	[32mLoaded all markets[39m
+[90mTue, 06 Sep 2022 18:24:04 GMT[39m	symbol    | binanceus | bitstamp
+                             	--------------------------------
+                             	1INCH/USD | binanceus | bitstamp
+                             	AAVE/USD  | binanceus | bitstamp
+                             	ADA/BTC   | binanceus | bitstamp
+                             	ADA/USD   | binanceus | bitstamp
+                             	ALGO/USD  | binanceus | bitstamp
+                             	AMP/USD   | binanceus | bitstamp
+                             	ANT/USD   | binanceus | bitstamp
+                             	APE/USD   | binanceus | bitstamp
+                             	AUDIO/USD | binanceus | bitstamp
+                             	AVAX/USD  | binanceus | bitstamp
+                             	AXS/USD   | binanceus | bitstamp
+                             	BAND/USD  | binanceus | bitstamp
+                             	BAT/USD   | binanceus | bitstamp
+                             	BCH/BTC   | binanceus | bitstamp
+                             	BCH/USD   | binanceus | bitstamp
+                             	BTC/USD   | binanceus | bitstamp
+                             	BTC/USDC  | binanceus | bitstamp
+                             	BTC/USDT  | binanceus | bitstamp
+                             	CHZ/USD   | binanceus | bitstamp
+                             	COMP/USD  | binanceus | bitstamp
+                             	CRV/USD   | binanceus | bitstamp
+                             	CTSI/USD  | binanceus | bitstamp
+                             	DAI/USD   | binanceus | bitstamp
+                             	DOT/USD   | binanceus | bitstamp
+                             	ENJ/USD   | binanceus | bitstamp
+                             	ENS/USD   | binanceus | bitstamp
+                             	ETH/BTC   | binanceus | bitstamp
+                             	ETH/USD   | binanceus | bitstamp
+                             	ETH/USDC  | binanceus | bitstamp
+                             	ETH/USDT  | binanceus | bitstamp
+                             	FET/USD   | binanceus | bitstamp
+                             	FTM/USD   | binanceus | bitstamp
+                             	GALA/USD  | binanceus | bitstamp
+                             	GRT/USD   | binanceus | bitstamp
+                             	HBAR/USD  | binanceus | bitstamp
+                             	IMX/USD   | binanceus | bitstamp
+                             	KNC/USD   | binanceus | bitstamp
+                             	LINK/BTC  | binanceus | bitstamp
+                             	LINK/USD  | binanceus | bitstamp
+                             	LRC/USD   | binanceus | bitstamp
+                             	LTC/BTC   | binanceus | bitstamp
+                             	LTC/USD   | binanceus | bitstamp
+                             	MANA/USD  | binanceus | bitstamp
+                             	MATIC/USD | binanceus | bitstamp
+                             	MKR/USD   | binanceus | bitstamp
+                             	OMG/USD   | binanceus | bitstamp
+                             	RAD/USD   | binanceus | bitstamp
+                             	RNDR/USD  | binanceus | bitstamp
+                             	SKL/USD   | binanceus | bitstamp
+                             	SLP/USD   | binanceus | bitstamp
+                             	SNX/USD   | binanceus | bitstamp
+                             	SOL/USD   | binanceus | bitstamp
+                             	STORJ/USD | binanceus | bitstamp
+                             	SUSHI/USD | binanceus | bitstamp
+                             	UNI/BTC   | binanceus | bitstamp
+                             	UNI/USD   | binanceus | bitstamp
+                             	USDC/USD  | binanceus | bitstamp
+                             	USDC/USDT | binanceus | bitstamp
+                             	USDT/USD  | binanceus | bitstamp
+                             	WBTC/BTC  | binanceus | bitstamp
+                             	XLM/USD   | binanceus | bitstamp
+                             	XRP/BTC   | binanceus | bitstamp
+                             	XRP/USD   | binanceus | bitstamp
+                             	XRP/USDT  | binanceus | bitstamp
+                             	YFI/USD   | binanceus | bitstamp
+                             	ZRX/USD   | binanceus | bitstamp
+[90mTue, 06 Sep 2022 18:24:06 GMT[39m	[31m1INCH/USD: -1.5740259740259717 % [39m
+[90mTue, 06 Sep 2022 18:24:07 GMT[39m	[31mAAVE/USD: -0.7522426513643204 % [39m
+[90mTue, 06 Sep 2022 18:24:08 GMT[39m	[31mADA/BTC: -0.8024291497975783 % [39m
+[90mTue, 06 Sep 2022 18:24:09 GMT[39m	[31mADA/USD: -0.4255244904038497 % [39m
+[90mTue, 06 Sep 2022 18:24:10 GMT[39m	[31mALGO/USD: -0.6909090909090859 % [39m
+[90mTue, 06 Sep 2022 18:24:12 GMT[39m	[31mANT/USD: -0.8242152466367719 % [39m
+[90mTue, 06 Sep 2022 18:24:13 GMT[39m	[31mAPE/USD: -0.8579143176682841 % [39m
+[90mTue, 06 Sep 2022 18:24:14 GMT[39m	[31mAUDIO/USD: -0.6416666666666621 % [39m
+[90mTue, 06 Sep 2022 18:24:16 GMT[39m	[31mAVAX/USD: -0.7173028435827339 % [39m
+[90mTue, 06 Sep 2022 18:24:17 GMT[39m	[31mAXS/USD: -0.6513229713378083 % [39m
+[90mTue, 06 Sep 2022 18:24:18 GMT[39m	[31mBAND/USD: -2.1854760535611635 % [39m
+[90mTue, 06 Sep 2022 18:24:19 GMT[39m	[31mBAT/USD: -0.7155636068338794 % [39m
+[90mTue, 06 Sep 2022 18:24:20 GMT[39m	[31mBCH/BTC: -0.7818181818181719 % [39m
+[90mTue, 06 Sep 2022 18:24:21 GMT[39m	[31mBCH/USD: -0.6783426183843971 % [39m
+[90mTue, 06 Sep 2022 18:24:22 GMT[39m	[31mBTC/USD: -0.6221134234783537 % [39m
+[90mTue, 06 Sep 2022 18:24:23 GMT[39m	[31mBTC/USDC: -0.6617032728991384 % [39m
+[90mTue, 06 Sep 2022 18:24:25 GMT[39m	[31mBTC/USDT: -0.6272058823529431 % [39m
+[90mTue, 06 Sep 2022 18:24:26 GMT[39m	[31mCHZ/USD: -0.6266028198989021 % [39m
+[90mTue, 06 Sep 2022 18:24:27 GMT[39m	[31mCOMP/USD: -0.7513186338089056 % [39m
+[90mTue, 06 Sep 2022 18:24:28 GMT[39m	[31mCRV/USD: -0.7616157752297509 % [39m
+[90mTue, 06 Sep 2022 18:24:29 GMT[39m	[31mCTSI/USD: -0.6744047619047561 % [39m
+[90mTue, 06 Sep 2022 18:24:30 GMT[39m	[31mDAI/USD: -0.6010001900361045 % [39m
+[90mTue, 06 Sep 2022 18:24:32 GMT[39m	[31mDOT/USD: -0.7428571428571445 % [39m
+[90mTue, 06 Sep 2022 18:24:33 GMT[39m	[31mENJ/USD: -0.8499496069340745 % [39m
+[90mTue, 06 Sep 2022 18:24:34 GMT[39m	[31mENS/USD: 0.2528784648187626 % [39m
+[90mTue, 06 Sep 2022 18:24:35 GMT[39m	[31mETH/BTC: -0.6569245706095844 % [39m
+[90mTue, 06 Sep 2022 18:24:36 GMT[39m	[31mETH/USD: -0.6012657426745166 % [39m
+[90mTue, 06 Sep 2022 18:24:38 GMT[39m	[31mETH/USDC: -0.7177095990279597 % [39m
+[90mTue, 06 Sep 2022 18:24:39 GMT[39m	[31mETH/USDT: -0.6170940170940215 % [39m
+[90mTue, 06 Sep 2022 18:24:40 GMT[39m	[31mFET/USD: -0.7544401544401608 % [39m
+[90mTue, 06 Sep 2022 18:24:41 GMT[39m	[31mFTM/USD: -0.74471780028944 % [39m
+[90mTue, 06 Sep 2022 18:24:42 GMT[39m	[31mGALA/USD: -0.7680672268907668 % [39m
+[90mTue, 06 Sep 2022 18:24:43 GMT[39m	[31mGRT/USD: -0.7812688821752228 % [39m
+[90mTue, 06 Sep 2022 18:24:44 GMT[39m	[31mHBAR/USD: -0.667980965329717 % [39m
+[90mTue, 06 Sep 2022 18:24:45 GMT[39m	[31mIMX/USD: -1.2369426751592356 % [39m
+[90mTue, 06 Sep 2022 18:24:46 GMT[39m	[31mKNC/USD: -0.7643671265746826 % [39m
+[90mTue, 06 Sep 2022 18:24:47 GMT[39m	[31mLINK/BTC: -1.2036048623725089 % [39m
+[90mTue, 06 Sep 2022 18:24:48 GMT[39m	[31mLINK/USD: -0.7120943952802378 % [39m
+[90mTue, 06 Sep 2022 18:24:49 GMT[39m	[31mLRC/USD: -0.839306012563556 % [39m
+[90mTue, 06 Sep 2022 18:24:50 GMT[39m	[31mLTC/BTC: -0.6966363001709158 % [39m
+[90mTue, 06 Sep 2022 18:24:52 GMT[39m	[31mLTC/USD: -0.708420672208176 % [39m
+[90mTue, 06 Sep 2022 18:24:53 GMT[39m	[31mMANA/USD: -1.177724036006988 % [39m
+[90mTue, 06 Sep 2022 18:24:54 GMT[39m	[31mMATIC/USD: -0.7088633943845729 % [39m
+[90mTue, 06 Sep 2022 18:24:55 GMT[39m	[31mMKR/USD: -0.755546732078371 % [39m
+[90mTue, 06 Sep 2022 18:24:56 GMT[39m	[31mOMG/USD: -1.2584267067113348 % [39m
+[90mTue, 06 Sep 2022 18:24:57 GMT[39m	[31mRAD/USD: -1.9478260869565052 % [39m
+[90mTue, 06 Sep 2022 18:24:58 GMT[39m	[31mRNDR/USD: -1.0210526315789443 % [39m
+[90mTue, 06 Sep 2022 18:25:00 GMT[39m	[31mSKL/USD: -0.9682044617717261 % [39m
+[90mTue, 06 Sep 2022 18:25:01 GMT[39m	[31mSLP/USD: -1.3894736842105289 % [39m
+[90mTue, 06 Sep 2022 18:25:02 GMT[39m	[31mSNX/USD: -0.8104430095149046 % [39m
+[90mTue, 06 Sep 2022 18:25:03 GMT[39m	[31mSOL/USD: -0.6745026704853324 % [39m
+[90mTue, 06 Sep 2022 18:25:04 GMT[39m	[31mSTORJ/USD: -0.9823757763975257 % [39m
+[90mTue, 06 Sep 2022 18:25:05 GMT[39m	[31mSUSHI/USD: -0.7603010872595511 % [39m
+[90mTue, 06 Sep 2022 18:25:06 GMT[39m	[31mUNI/BTC: -0.8678913126674342 % [39m
+[90mTue, 06 Sep 2022 18:25:07 GMT[39m	[31mUNI/USD: -0.6241552376606946 % [39m
+[90mTue, 06 Sep 2022 18:25:08 GMT[39m	[31mUSDC/USD: -0.5989999999999934 % [39m
+[90mTue, 06 Sep 2022 18:25:09 GMT[39m	[31mUSDC/USDT: -0.5959995999599949 % [39m
+[90mTue, 06 Sep 2022 18:25:10 GMT[39m	[31mUSDT/USD: -0.5979999599992064 % [39m
+[90mTue, 06 Sep 2022 18:25:11 GMT[39m	[31mWBTC/BTC: -0.8193638448499291 % [39m
+[90mTue, 06 Sep 2022 18:25:12 GMT[39m	[31mXLM/USD: -0.5901088031651675 % [39m
+Symbol excluded (wallet update, deposit maintenance, bug, etc.):
+[ 'STEEM/BTC', 'STEEM/ETH' ]
+[90mTue, 06 Sep 2022 18:27:00 GMT[39m	[33mbinanceus, bitstamp[39m
+[90mTue, 06 Sep 2022 18:27:02 GMT[39m	[32mbinanceus[39m loaded [32m300[39m markets
